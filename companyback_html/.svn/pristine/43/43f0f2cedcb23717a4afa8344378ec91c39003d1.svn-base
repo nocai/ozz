@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <title>我找找企业端简历详情</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/resume_details.css">
+    <link rel="stylesheet" href="css/certification.css">
+    <link rel="stylesheet" href="dist/css/bootstrap.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/resume_details.js"></script>
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+</head>
+<body>
+<div class="wrap">
+        <div class="cedetailsfic">
+            <div class="cedetailsfic_kuang">
+                <div class="detailsg">
+                    <div class="logindedc">
+                        <div class="resume_first">
+                            <div class="biaotide">
+                                <div class="bitosni">应邀机构：上海天空科技有限公司</div>
+                                <div class="zhiweixiangq">应聘职位：Android软件开发工程师</div>
+                                <div class="zhiweixiangq">工作地点：上海/宝山</div>
+                                <div class="zhiweixiangq">投递时间：2016/06/06  17:30<span style="margin-left: 30px;">面试时间：2016/06/06 17:30</span></div>
+                            </div>
+                            <div class="biaoimg">
+                                <div class="imgdetails">
+                                    <img src="images/logo.png" style="height:80px; width: 120px; margin-left: 40px;"/>
+                                </div>
+                                <div class="zitishe">
+                                    请在<span style="color: red;">
+                                    2</span>天<span style="color: red;">28
+                                </span>小时内答复，超时流程结束</div>
+
+                            </div>
+                        </div>
+                        <div class="resume_scend">
+                            <div class="details_iyu">
+                                <div class="dadade">
+                                    <div class="detaimg">
+                                       <img src="images/touaingw.png" style="height: 150px; width: 150px;"/>
+                                    </div>
+                                    <div class="zitibsu">1993年<span style="color: #2398ED; margin-left: 50px;">射手座</span></div>
+                                 </div>
+                                <div class="xinxidetails">
+                                    <div class="xumei">徐某<span style="margin-left: 15px;">男</span><span style="margin-left: 15px;">23岁</span><span style="margin-left: 15px; font-size: 14px;">上海 | 北京人 | 本科 | 2年经验</span></div>
+                                    <div class="xiaoziti">UI视觉设计师-上海某某有限公司</div>
+                                    <div class="xiaoziti">求职状态：在职，看看机会</div>
+                                    <div class="xiaoziti">目前薪资：8000-12000</div>
+                                    <div class="xiaoziti">手机：152××××2750</div>
+                                    <div class="anniutijiao">
+                                        <div class="tijia">到岗确认</div>
+                                        <div class="tijia2">未到岗</div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="resume_three">
+                            <div class="zhiwnrdiw">
+                                <div class="biaotidshj">
+                                    <img src="images/qiuzhiyis.png" style="height: 22px; width: 23px; margin-top: -5px;"/>
+                                    <span style="margin-left: 10px;">求职意向</span>
+                                </div>
+                                <div class="xiaozitins">
+                                    <div class="shehbe">
+                                        <p>职位类型：全职</p>
+                                        <p>期望行业：互联网/移动互联网/电子商务</p>
+                                        <p>职位类别：计算机软硬件</p>
+                                        <p>工作区域：上海--宝山</p>
+                                        <p>期望薪资：10000以上</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="resume_four">
+                            <div class="four_nshw">
+                                <div class="biaotidshj">
+                                    <img src="images/gonzjl.png" style="height: 22px; width: 23px; margin-top: -5px;"/>
+                                    <span style="margin-left: 10px;">工作经历</span>
+                                </div>
+                                <div class="sbdjhdadg">
+                                    <div class="hshbee">
+                                        <div class="zhiebojde">2014.10-至今</div>
+                                        <div>上海昭虹计算机网络有限公司</div>
+                                    </div>
+                                    <div class="hsshee">
+                                        <div class="zhiede">所属部门：设计部</div>
+                                        <div>职位类别：网络管理</div>
+                                    </div>
+                                    <div class="hsshee">
+                                        <div class="zhiede">职位名称：网络管理</div>
+                                        <div>薪资：9000</div>
+                                    </div>
+                                    <div class="ziwjrisin">
+                                        <div class="zhiweimiasu">职位描述：</div>
+                                        <div class="xiangqingdaye">sas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asad</div>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="sbdjhdadg">
+                                    <div class="hshbee">
+                                        <div class="zhiebojde">2014.10-至今</div>
+                                        <div>上海昭虹计算机网络有限公司</div>
+                                    </div>
+                                    <div class="hsshee">
+                                        <div class="zhiede">所属部门：设计部</div>
+                                        <div>职位类别：网络管理</div>
+                                    </div>
+                                    <div class="hsshee">
+                                        <div class="zhiede">职位名称：网络管理</div>
+                                        <div>薪资：9000</div>
+                                    </div>
+                                    <div class="ziwjrisin">
+                                        <div class="zhiweimiasu">职位描述：</div>
+                                        <div class="xiangqingdaye">sad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asad</div>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                          </div>
+                        </div>
+                        <div class="resume_five">
+                            <div class="four_nshw">
+                                <div class="biaotidshj">
+                                    <img src="images/jioayujl.png" style="height: 22px; width: 23px; margin-top: -5px;"/>
+                                    <span style="margin-left: 10px;">教育经历</span>
+                                </div>
+                                <div class="sbdjhdadg">
+                                    <div class="jiaolyus">
+                                        <ul>
+                                            <li>2011/9-2015/6</li>
+                                            <li>清华大学</li>
+                                            <li>哲学</li>
+                                            <li>本科</li>
+                                        </ul>
+                                        <ul>
+                                            <li>2011/9-2015/6</li>
+                                            <li>清华大学</li>
+                                            <li>哲学</li>
+                                            <li>本科</li>
+                                        </ul>
+                                        <ul>
+                                            <li>2011/9-2015/6</li>
+                                            <li>清华大学</li>
+                                            <li>哲学</li>
+                                            <li>本科</li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="resume_six">
+                            <div class="four_nshw">
+                                <div class="biaotidshj">
+                                    <img src="images/yuyanmnl.png" style="height: 22px; width: 23px; margin-top: -5px;"/>
+                                    <span style="margin-left: 10px;">语言能力</span>
+                                </div>
+                                <div class="sbyuyandg">
+                                    <div class="weyunsi">英语<span style="color: #6d6d6d; margin-left: 20px;">等级--4级<span style=" margin-left: 20px;">口语--一般</span></span>
+                                        <img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/><span style="color:#F2AE30; margin-left: 5px;">查看</span></div>
+                                    <div class="weyunsi">英语<span style="color: #6d6d6d; margin-left: 20px;">等级--4级<span style=" margin-left: 20px;">口语--一般</span></span>
+                                        <img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/><span style="color:#F2AE30; margin-left: 5px;">查看</span></div>
+                                    <div class="weyunsi">英语<span style="color: #6d6d6d; margin-left: 20px;">等级--4级<span style=" margin-left: 20px;">口语--一般</span></span>
+                                        <img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/><span style="color:#F2AE30; margin-left: 5px;">查看</span></div>
+                                    <div class="weyunsi">英语<span style="color: #6d6d6d; margin-left: 20px;">等级--4级<span style=" margin-left: 20px;">口语--一般</span></span>
+                                        <img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/><span style="color:#F2AE30; margin-left: 5px;">查看</span></div>
+                                    <div class="clear"></div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="resume_seven">
+                            <div class="four_nshw">
+                                <div class="biaotidshj">
+                                    <img src="images/xiangmujy.png" style="height: 22px; width: 23px; margin-top: -5px;"/>
+                                    <span style="margin-left: 10px;">项目经验</span>
+                                </div>
+                                <div class="sbdjhdadg">
+                                    <div class="hshbee">
+                                        <div class="zhiebojde">2016/04/20-2016/06/01</div>
+                                        <div>手持媒体终端（PMP）</div>
+                                    </div>
+                                    <div class="hsshee">
+                                        <p>技术岗位：UI设计师</p>
+                                    </div>
+                                    <div class="hsshee">
+                                        <p>项目成果：已经上线</p>
+                                    </div>
+                                    <div class="ziwjrisin">
+                                        <div class="zhiasu">职位及责任描述：</div>
+                                        <div class="xiangqingdaye">sas b dijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asad</div>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                                <div class="sbdjhdadg">
+                                    <div class="hshbee">
+                                        <div class="zhiebojde">2016/04/20-2016/06/01</div>
+                                        <div>手持媒体终端（PMP）</div>
+                                    </div>
+                                    <div class="hsshee">
+                                        <p>技术岗位：UI设计师</p>
+                                    </div>
+                                    <div class="hsshee">
+                                        <p>项目成果：已经上线</p>
+                                    </div>
+                                    <div class="ziwjrisin">
+                                        <div class="zhiasu">职位及责任描述：</div>
+                                        <div class="xiangqingdaye">df fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asad</div>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="resume_eight">
+                            <div class="four_nshw">
+                                <div class="biaotidshj">
+                                    <img src="images/ziwopj.png" style="height: 22px; width: 23px; margin-top: -5px;"/>
+                                    <span style="margin-left: 10px;">自我评价</span>
+                                </div>
+                                <div class="sbdjhdadg">
+                                    <div class="ziwjrisin">
+                                        <div class="xiangqingdaye">sas sijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asad</div>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="resume_nine">
+                            <div class="four_nshw">
+                            <div class="biaotidshj">
+                                <img src="images/zhizizenm.png" style="height: 22px; width: 23px; margin-top: -5px;"/>
+                                <span style="margin-left: 10px;">资质证书</span>
+                            </div>
+                            <div class="sbdjhdadg">
+                                <div class="ziwjrisin">
+                                    <div class="xiangqingdaye">
+                                        <div class="jishude">
+                                            <div class="hreunbi">Dreamweaver</div>
+                                            <div class="skdh"></div>
+                                            <div class="jrrined">熟练</div>
+                                            <div class="sjrehrurerb"><img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/></div>
+                                        </div>
+                                        <div class="jishude2">
+                                            <div class="hreunbi">Dreamweaver</div>
+                                            <div class="skdh"></div>
+                                            <div class="jrrined">熟练</div>
+                                            <div class="sjrehrurerb"><img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/></div>
+                                        </div>
+                                        <div class="jishude2">
+                                            <div class="hreunbi">Dreamweaver</div>
+                                            <div class="skdh"></div>
+                                            <div class="jrrined">熟练</div>
+                                            <div class="sjrehrurerb"><img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/></div>
+                                        </div>
+                                        <div class="jishude">
+                                            <div class="hreunbi">Dreamweaver</div>
+                                            <div class="skdh"></div>
+                                            <div class="jrrined">熟练</div>
+                                            <div class="sjrehrurerb"><img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/></div>
+                                        </div>
+                                        <div class="jishude2">
+                                            <div class="hreunbi">Dreamweaver</div>
+                                            <div class="skdh"></div>
+                                            <div class="jrrined">熟练</div>
+                                            <div class="sjrehrurerb"><img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/></div>
+                                        </div>
+                                        <div class="jishude2">
+                                            <div class="hreunbi">Dreamweaver</div>
+                                            <div class="skdh"></div>
+                                            <div class="jrrined">熟练</div>
+                                            <div class="sjrehrurerb"><img src="images/zhengshuk.png" style="height: 15px; width: 20px;"/></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+
+                        </div></div>
+                    </div>
+                </div>
+                <div class="ikrnirni">
+                    <div id="bb" class="jruirn" >
+                        <div class="guhg"><img src="images/jubaonji.png" style="height: 24px; width: 26px;"/></div>
+                        <div class="guhg2"><img src="images/baochun.png" style="height: 23px; width: 23px;"/></div>
+                        <div class="guhg2"><img src="images/daying.png" style="height: 26px; width: 28px;"/></div>
+                        <div class="guhg2"><img src="images/zhaunffaa.png" style="height: 20px; width: 25px;"/></div>
+                        <div class="guhg2"><img src="images/shosuchnag.png" style="height: 24px; width: 26px;"/></div>
+                        <div class="guhg3"><img src="images/zaixjainkesfu.png" style="height: 35px; width:45px;"/></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div style="clear:both"></div>
+        <div class="footer">
+            <div class="footer-shang">
+                <div class="container" style="width: 1170px; height: 160px;">
+                    <div class="footer-shang-tu"><img src="images/kefukr.png"
+                                                      style="height:100px; margin-top: 10px; "/>
+                        <br>
+                        <br>
+                        (客服热线)
+                    </div>
+                    <div class="footer-jrurb">
+                        <ul>
+                            <li style="font-size: 20px;">
+                                关于我们
+                            </li>
+                            <li>
+                                了解我找找
+                            </li>
+                            <li>
+                                加入我找找
+                            </li>
+                            <li>
+                                联系我们
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-jrurb">
+                        <ul>
+                            <li style="font-size: 20px;">
+                                产品
+                            </li>
+                            <li>
+                                了解我找找
+                            </li>
+                            <li>
+                                加入我找找
+                            </li>
+                            <li>
+                                联系我们
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-jrurb">
+                        <ul>
+                            <li style="font-size: 20px;">
+                                服务支持
+                            </li>
+                            <li>
+                                了解我找找
+                            </li>
+                            <li>
+                                加入我找找
+                            </li>
+                            <li>
+                                联系我们
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footer-jrurb">
+                        <ul>
+                            <li style="font-size: 20px;">
+                                联系我们
+                            </li>
+                            <li>
+                                了解我找找
+                            </li>
+                            <li>
+                                加入我找找
+                            </li>
+                            <li>
+                                联系我们
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="footr-sjien">
+                        <div class="wrweiema">
+                            <div class="imgwrweina"><img src="images/ios.png" style="height: 80px;"/>
+                            </div>
+                            <div class="imgwrweina2"><img src="images/anzhuio.png" style="height: 80px;"/>
+                            </div>
+                        </div>
+                        <div class="shaoyisao">
+                            (扫一扫下载app)
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-xia">
+                copyright&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011-2015&nbsp;&nbsp;&nbsp;www.wozhaozhao.com&nbsp;&nbsp;All&nbsp;&nbsp;Rights&nbsp;&nbsp;Reserved&nbsp;&nbsp;粤ICP备1279924号
+            </div>
+        </div>
+</div>
+</body>
+</html>
+<script>
+    function scroll(p){
+        var d = document,dd = d.documentElement,db = d.body,w = window,o = d.getElementById(p.id),ie = /msie/i.test(navigator.userAgent),style,timer;
+        if(o){
+            o.style.cssText +=";position:"+(p.f&&!ie?'fixed':'absolute')+";"+(p.l==undefined?'right:0;':'left:'+p.l+'px;')+(p.t!=undefined?'top:'+p.t+'px':'bottom:0');
+            if(p.f&&ie){
+                o.style.cssText +=';left:expression(body.scrollLeft + '+(p.l==undefined?db.clientWidth-o.offsetWidth:p.l)+' + "px");top:expression(body.scrollTop +'+(p.t==undefined?db.clientHeight-o.offsetHeight:p.t)+'+ "px" );'
+                db.style.cssText +=";background-image:url(about:blank);background-attachment:fixed;"
+            }else{
+                if(!p.f){
+                    w.onresize = w.onscroll = function(){
+                        clearInterval(timer);
+                        timer = setInterval(function(){
+                            var st = db.scrollTop,c;
+                            c = st  - o.offsetTop + (p.t!=undefined?p.t:(w.innerHeight||db.clientHeight)-o.offsetHeight);
+                            if(c!=0){
+                                o.style.top = o.offsetTop + Math.ceil(Math.abs(c)/10)*(c<0?-1:1) + 'px';
+                            }else{
+                                clearInterval(timer);
+                            }
+                        },10)
+                    }
+                }
+            }
+        }
+    }
+
+    scroll({
+        id:'bb',
+        l:0,
+        t:0,
+
+    })
+</script>

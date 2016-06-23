@@ -1,0 +1,292 @@
+.activfhfuri{
+     height: 60px;
+     line-height: 60px;
+    padding-left: 50px;
+     color: #FFFFFF;
+     border-bottom: 1px solid #FFFFFF;
+ }
+.activfhfu{
+    height: 60px;
+    line-height: 60px;
+    background: #FFFFFF;
+    padding-left: 50px;
+    color: #333333;
+    border-bottom: 1px solid #FFFFFF;
+}
+.message-zuo{
+    font-size: 16px;
+    border: 1px solid #CACACA;
+    width: 180px;
+    background: #B8BEBE;
+    float: left;
+    height: 880px;
+}
+/*.message-zuo ul li:hover{ background: #FFFFFF; color: #333333;}*/
+.message-you{
+    float: left;
+    width: 855px;
+    margin-left: 10px;
+}
+.quanb3sjian{
+    height: 50px;
+    background: #FFFFFF;
+    line-height: 50px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.zhmessage{
+    background: #FFFFFF;
+    border: 1px solid #CACACA;
+}
+.messasdgea{
+     height: 70px;
+     background: #FFFFFF;
+     border-bottom: 1px solid #CACACA;
+ }
+.biaoqdsdian{
+    height: 50px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #CACACA;
+}
+.hanggdsjdiao{
+    padding-top:10px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #CACACA;
+    padding-bottom: 20px;
+}
+.encelop{
+    padding-top:10px;
+    background: #FFFFFF;
+    padding-bottom: 20px;
+}
+.sdjius{
+    height: 40px;
+    margin-top: 5px;
+    line-height: 40px;
+    float: left;
+    font-size: 16px;
+    margin-left: 30px;
+}
+.leseuh{
+    float: left;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.leseuh input{
+    height: 15px;
+    width: 15px;
+}
+.leseuh span{
+margin-left: 5px;
+}
+.liebiao_list ul li{
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.certssific{
+    width: 100%;
+}
+.hogbaolist{
+    background: #FFFFFF;
+}
+.xiafjhsui{
+    float: left;
+    margin-left: 10px;
+    line-height: 150px;
+}
+.xiafjhsui input{
+    height: 16px;
+    width: 16px;
+}
+.jhdrihddh{
+    float: left;
+    margin-left: 10px;
+    border: 1px solid #CCCCCC;
+    margin-top: 15px;
+    width: 800px;
+}
+.hongbaozu{
+    width: 630px;
+    float: left;
+    border-right: 1px solid #CCCCCC;
+
+}
+.tupsni{
+    height: 120px;
+    float: left;
+    width: 140px;
+}
+.tupsni img{
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 120px;
+    width: 140px;
+}
+.suehinhuieh{
+    margin-left: 30px;
+    margin-top: 15px;
+    float: left;
+}
+.anhuanjsi{
+    background: #8AA427;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 15px;
+    float: left;
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
+}
+
+.anhanjsi{
+    background: #F5A623;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 15px;
+    float: left;
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
+}
+.ndudbduh{
+    line-height: 30px;
+    width: 420px;
+    font-size: 14px;
+    margin-top: 10px;
+    color: #666666;
+}
+.sjedru{
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+}
+.hongbaoyo{
+    line-height: 145px;
+    text-align: center;
+    width: 165px;
+    float: right;
+}
+.hongbaoyo img{
+    width: 76px;
+    height: 76px;
+}
+.dksodnf{
+    text-align: center;
+    width: 165px;
+    float: right;
+}
+.shgduh{
+    line-height: 70px;
+    color: #F5A623;
+    font-size: 16px;
+    text-align: center;
+}
+.shgduh img{
+height: 32px;
+    width: 73px;
+}
+.qianshfghe{
+    height: 45px;
+    background: #EEEEEE;
+    line-height:45px;
+}
+.quadsnx{
+    height: 45px;
+    line-height:45px;
+}
+.shanchu{
+    width: 55px;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 7px;
+    border: 1px solid #CACACA;
+    color: #333;
+    border-radius: 1px;
+    margin-left: 15px;
+}
+.nhdus_details{
+    height: 50px;
+    border-bottom: 1px solid #B2B2B2;
+    line-height: 50px;
+}
+.details_toubu{
+    float: left;
+    font-size: 16px;
+    margin-left: 25px;
+}
+.details_toubu span{
+    color: red;
+}
+.detaukjdi{
+    float: right;
+    margin-right: 20px;
+}
+.detaukjdi{
+    font-size: 16px;
+}
+.detaukjdi span{
+    margin-left: 20px;
+
+}
+.titale{
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid #B2B2B2;
+}
+.zjhn{
+  width: 130px;
+    line-height: 50px;
+    text-align: center;
+    float: left;
+    height: 50px;
+    font-size: 16px;
+    background: #CCCCCC;
+    border-bottom: 1px solid #B2B2B2;
+}
+.dhdusd{
+    float: left;
+    font-size: 15px;
+    color: #666666;
+    margin-left: 20px;
+}
+.hruheueh{
+    width: 750px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.nhsjie_details{
+    height: 50px;
+    background: #EEEEEE;
+    border-top: 1px solid #B2B2B2;
+    border-bottom: 1px solid #B2B2B2;
+    line-height: 50px;
+}
+.sienirri{
+    line-height: 30px;
+    padding: 10px;
+    font-size: 14px;
+    color: #666666;
+}
+.sdjjwnj{
+    height: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.sdjjwnj img{
+    height: 150px;
+    width: 150px;
+}
+.drnieheien{
+    color: red;
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+}
+.ndujbeube{
+    float: right;
+}

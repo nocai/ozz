@@ -1,0 +1,238 @@
+/*拒绝列表*/
+.rffih .tab{
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    overflow:hidden;
+    background:#6A7976;
+}
+.rffih .tab a{
+    display:block;
+    width:284px;
+    float:left;
+    text-decoration:none;
+    color:#FFFFFF;
+    text-align: center}
+.rffih .tab a.on{background:#fff;text-decoration:none; color: #333333;}
+.rffih .content{
+    overflow:hidden;
+}
+.rffih .content li{
+    display:none;
+}
+/*拒绝列表end*/
+
+/*举报投诉*/
+
+.rjirjruj .tab{
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    overflow:hidden;
+    background:#6A7976;
+}
+.rjirjruj .tab a{
+    display:block;
+    width:212px;
+    float:left;
+    text-decoration:none;
+    color:#FFFFFF;
+    text-align: center}
+.rjirjruj .tab a.on{background:#fff;text-decoration:none; color: #333333;}
+.rjirjruj .content{
+    background: #FFFFFF;
+    overflow:hidden;
+}
+.rjirjruj .content li{
+    display:none;
+}
+
+.kuanhsu{
+    width: 700px;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+}
+
+.xiansue{
+    height: 1px;
+    border-bottom: 1px solid #CCCCCC;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.hueni{
+    color: #424242;
+    line-height: 30px;
+}
+.huanuida{
+    color: #666666;
+    font-size: 14px;
+}
+
+.ziois{
+    float: left;
+    color: #666666;
+    width: 75px;
+    font-size: 14px;
+}
+.neidnih{
+    width: 500px;
+    float: left;
+    color: #666666;
+    font-size: 14px;
+    padding: 5px;
+}
+
+.weihvneg{
+    color: #FB992F;
+}
+.annishrui{
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 100px;
+    border-radius: 3px;
+    float: right;
+    font-size: 16px;
+    color: #FB992F;
+    border: 1px solid #FB992F;
+}
+.shuosjojkua{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    line-height: 30px;
+    padding: 10px;
+    color: #666666;
+    background: #F4F4F4;
+    font-size: 14px;
+    border: 1px solid #CCCCCC;
+}
+.yemshrua_ma{
+    height: 50px;
+    width: 850px;
+    line-height: 50px;
+    background: #FFFFFF;
+    border-bottom: 1px solid #CACACA;
+}
+.myesssmia{
+    font-size: 14px;
+    width:500px;
+    margin-left: 105px;
+    height: 50px;
+}
+.litsdsrsd{
+    height: 28px;
+    width: 28px;
+    text-align: center;
+    line-height: 28px;
+    border: 1px solid #CACACA;
+    margin-top: 5px;
+    color: #FFFFFF;
+    float: left;
+    background: #BED744;
+    margin-left: 5px;
+}
+.litsdsrsd2{
+    height: 28px;
+    width: 28px;
+    float: left;
+    text-align: center;
+    line-height: 28px;
+    border: 1px solid #CACACA;
+    margin-top: 5px;
+    color: #333;
+    margin-left: 5px;
+}
+.litsdsrsd4{
+    height: 28px;
+    width: 55px;
+    float: left;
+    text-align: center;
+    line-height: 28px;
+    border: 1px solid #CACACA;
+    margin-top: 5px;
+    color: #333;
+    margin-left: 5px;
+}
+.litsdsrsd5{
+    height: 28px;
+    width: 45px;
+    float: left;
+    text-align: center;
+    line-height: 28px;
+    border: 1px solid #CACACA;
+    margin-top:5px;
+    color: #333;
+    margin-left: 5px;
+}
+.litsdsrsd3{
+    height: 28px;
+    width: 28px;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 5px;
+    color: #333;
+    margin-left: 5px;
+}
+
+.qussfbu-nsi{
+    height: 40px;
+    line-height:40px;
+    background: #EEEEEE;
+}
+.quaddsadnx{
+    height: 35px;
+    line-height:35px;
+    width: 852px;
+}
+.kuanewrhsu{
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 16px;
+}
+.diyigekuang{
+    height: 100px;
+    background: #EEEEEE;
+    border: 1px solid #CCCCCC;
+}
+.jianlush{
+    margin-left: 50px;
+    font-size: 16px;
+    height: 40px;
+    margin-top: 5px;
+    line-height: 40px;
+}
+.kiuridbn{
+    border: 1px solid #CCCCCC;
+    background: #EEEEEE;
+    margin-top: 20px;
+}
+.jsidhu{
+    line-height: 40px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.ghrubsue{
+    padding: 10px;
+    margin-left: 50px;
+    line-height: 35px;
+    font-size: 14px;
+    color: #666666;
+    margin-right: 20px;
+}
+.seneie{
+    margin-top: 10px;
+    height: 140px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+.seneie img{
+    height: 130px;
+    width: 160px;
+}
+/*举报投诉end*/

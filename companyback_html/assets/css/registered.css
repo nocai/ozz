@@ -1,0 +1,223 @@
+
+.heercd{
+    height: 90px;
+    background: #546461;
+    width: 100%;
+}
+.contain{
+    width: 1200px;
+    margin: 0 auto;
+    height: 90px;
+}
+.hererzuo{
+    margin-left: 50px;
+    width: 200px;
+    height: 90px;
+    float: left;
+}
+.hereryou{
+    float: right;
+    width: 320px;
+    height: 90px;
+}
+.qiye{
+    height: 90px;
+    width: 320px;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 90px;
+
+}
+.qiyeziti{
+    float: left;
+    height: 50px;
+    width: 135px;
+    line-height: 50px;
+    margin-top: 20px;
+    border-right: 1px solid #788885;
+}
+.xiankuan{
+    float: left;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 160px;
+    line-height: 60px;
+}
+.tupian{
+    width:40px;
+    line-height: 50px;
+    margin-left: 5px;
+    float: left;
+}
+.zitibs{
+    float: left;
+line-height: 50px;
+}
+.frombiaodan{
+    height: 600px;
+    width: 1100px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+}
+.biaodan{
+    height: 580px;
+    width: 1100px;
+    margin-top: 10px;
+}
+.zuobian{
+    height: 580px;
+    width: 630px;
+    float: left;
+    border-right: 1px dashed #CCCCCC;
+}
+.kuandu{
+    height: 580px;
+    width: 420px;
+    margin: 0 auto;
+}
+.regin{
+    height: 70px;
+    width: 200px;
+    line-height: 70px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: #333333;
+}
+.phone{
+    width: 380px;
+    margin-left:30px;
+    height: 50px;
+    line-height: 50px;
+}
+.phone input{
+    width:380px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.yanzmea{
+    width: 380px;
+    margin-left:30px;
+    height: 50px;
+    line-height: 50px;
+}
+.yanzmea input{
+    width:240px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.tyidshi{
+    font-size: 16px;
+    color: red;
+    height: 20px;
+    line-height: 20px;
+    margin-left:30px
+}
+.youbian{
+    height: 530px;
+    width: 460px;
+    float: left;
+}
+.ziuyoan{
+    float: left;
+}
+.xieyi{
+    margin-left: 30px;
+    height: 40px;
+    line-height: 40px;
+    width: 380px;
+}
+.anniuff {float: left;}
+.anniuff input{
+    height: 18px;
+    width: 18px;
+}
+.zitbd{
+    float: left;
+    width: 300px;
+    height: 40px;
+    line-height: 45px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+.sunbirej{
+    margin-left: 30px;
+    width: 380px;
+    height: 40px;
+    margin-top: 10px;
+    background: #BCD546;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #CCCCCC;
+
+}
+.jreirn{
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    height: 40px;
+    margin-top:6px;
+    font-size: 16px;
+    width: 130px;
+    color: #FFFFFF;
+    background: #BCD546;
+    line-height: 40px;
+}
+.juzhong{
+    height: 300px;
+    width: 420px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.tuhoan{
+    height: 70px;
+    line-height: 70px;
+    width: 300px;
+    margin: 0 auto;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 30px;
+}
+.hrurh{
+    width: 120px;
+    float: left;
+    height: 40px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.dejer{
+    width: 150px;
+    float: left;
+    text-align: center;
+}
+.xiansng{
+    height: 70px;
+    line-height: 70px;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.lofog{
+    height: 80px;
+    width:300px;
+    margin: 0 auto;
+}
+.brjrb{
+    height: 80px;
+    width: 100px;
+    float: left;
+}
+.wdixwe{
+    height: 80px;
+    width: 100px;
+    float: right;
+}

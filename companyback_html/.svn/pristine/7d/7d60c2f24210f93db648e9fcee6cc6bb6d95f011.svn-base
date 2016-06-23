@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <title>我找找企业端</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/index_tan.css">
+    <link rel="stylesheet" href="css/message.css">
+    <link rel="stylesheet" href="css/certification.css">
+    <link rel="stylesheet" href="dist/css/bootstrap.css">
+    <script src="dist/js/jquery-1.9.1.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+</head>
+<body>
+<div class="wrap">
+    <div class="header">
+        <div class="header_fire">
+            <div class="header_fizu">
+                [ 上海青稞有限公司 ]
+            </div>
+            <div class="header_fiyo">
+                <p>
+                    上海**********有限公司!<span><img src="images/xiaoxi.png" style="height: 13px;"/> 消息</span>
+                    <span><img src="images/shezhi.png" style="height: 15px;"/> 设置</span>
+                    <span><img src="images/tuichu.png" style="height: 15px;"/> 安全退出</span>
+                </p>
+            </div>
+        </div>
+        <div class="header_twore">
+            <div class="container">
+                <div class="dadfegtr">
+                    <div style="height: 90px;padding-left: 0px; float: left; margin-right: 60px;">
+                        <div class="jhrjrnrirn">
+                            <img src="images/logo.png" style="height:70px; width: 110px;"/>
+                        </div>
+                        <div class="dktiotm">
+                            <div class="xuanszheom">
+                                <div>
+                                    上海 <span style="margin-left:5px; ">[选择城市]</span>
+                                </div>
+                            </div>
+                            <div class="jrnrirn">
+                                <div style=" float: left; margin-left:20px;"><img src="images/fabu.png"
+                                                                                  style="height: 20px;"/>
+                                </div>
+                                <div class=" woyao">
+                                    我要发布
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 90px;width: 1200px;">
+                        <div class=" jriornodmuf" style=" padding-right: 0px; padding-left:0px;">
+                            <ul style=" padding-right: 0px; padding-left:0px;">
+                                <a href="#">
+                                    <li style="background: #546461; color: #FFFFFF;">
+                                        首页
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        人才搜索
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        企业资料
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        高端人才
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        广告管理
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        收看广告
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        积分商城
+                                    </li> </a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="certssific">
+            <div class="contar"
+                 style="padding-right: 0px; margin-bottom: 15px;  padding-left: 0px; margin-top: 20px;">
+                <div class="message-zuo">
+                    <ul>
+                        <li class="activfhfu">
+                                系统消息
+                        </li>
+                        <li class="activfhfuri">
+                                邮箱消息
+                        </li>
+                        <li class="activfhfuri">
+                                抢红包
+                        </li>
+                    </ul>
+                </div>
+                <div class="message-you">
+                    <div class="zhmessage">
+                        <div class="tabbox2">
+                            <div class="content">
+                                <div class="quanb3sjian">
+                                   <div class="sdjius">查看:</div>
+                                    <div class="leseuh"><input type="radio" name="weidu" style="margin-top: -2px;"><span>全部对话</span>
+                                        <input type="radio"name="weidu"  style="margin-top: -2px; margin-left: 10px;"><span>未读对话</span></div>
+                                </div>
+
+                                <div class="sgiduaosd">
+                                    <div class="biaoqdsdian">
+                                        <table class="table table-hover2">
+                                            <tr>
+                                                <th style="padding-left: 20px; width: 20px;"></th>
+                                                <th style="line-height: 33px;width:80px; padding-left:0px; text-align: center;    font-size: 16px;">消息类型</th>
+                                                <th style="line-height: 33px;width: 90px; padding-left:0px;text-align: center; font-size: 16px;">发现人/用户</th>
+                                                <th style="line-height: 33px;width: 90px; padding-left: 0px;text-align: center; font-size: 16px;">标题</th>
+                                                <th style="line-height: 33px;width: 150px; padding-left: 0px;text-align: center; font-size: 16px;">发送时间</th>
+                                                <th style="line-height: 33px;width: 90px; padding-left: 0px;text-align: center; font-size: 16px;">操作</th>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <div class="hanggdsjdiao" >
+                                        <div  class="liebiao_list">
+                                            <ul style="display: block;">
+                                                <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                    <div>
+                                                        <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                    </div>
+                                                </li>
+                                               <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                   系统消息
+                                               </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                   管理员
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                    收到信的简历投递
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                    2016-02-16  17:24:06
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                    删除
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="liebiao_list">
+                                        <ul style="display: block;">
+                                            <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                <div>
+                                                    <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                </div>
+                                            </li>
+                                            <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                系统消息
+                                            </li>
+                                            <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                管理员
+                                            </li>
+                                            <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                收到信的简历投递
+                                            </li>
+                                            <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                2016-02-16  17:24:06
+                                            </li>
+                                            <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                删除
+                                            </li>
+                                        </ul>
+                                    </div>
+                                        <div class="liebiao_list">
+                                            <ul style="display: block;">
+                                                <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                    <div>
+                                                        <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                    </div>
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                    系统消息
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                    管理员
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                    收到信的简历投递
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                    2016-02-16  17:24:06
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                    删除
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="liebiao_list">
+                                            <ul style="display: block;">
+                                                <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                    <div>
+                                                        <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                    </div>
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                    系统消息
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                    管理员
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                    收到信的简历投递
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                    2016-02-16  17:24:06
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                    删除
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="liebiao_list">
+                                            <ul style="display: block;">
+                                                <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                    <div>
+                                                        <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                    </div>
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                    系统消息
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                    管理员
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                    收到信的简历投递
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                    2016-02-16  17:24:06
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                    删除
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="liebiao_list">
+                                            <ul style="display: block;">
+                                                <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                    <div>
+                                                        <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                    </div>
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                    系统消息
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                    管理员
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                    收到信的简历投递
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                    2016-02-16  17:24:06
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                    删除
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="liebiao_list">
+                                            <ul style="display: block;">
+                                                <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                    <div>
+                                                        <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                    </div>
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                    系统消息
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                    管理员
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                    收到信的简历投递
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                    2016-02-16  17:24:06
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                    删除
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="liebiao_list">
+                                            <ul style="display: block;">
+                                                <li style="float:left;padding-left: 30px; width: 50px;display: block;">
+                                                    <div>
+                                                        <input type="checkbox" style=" width: 15px; height: 15px;">
+                                                    </div>
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 120px;text-align: center;font-size: 15px;">
+                                                    系统消息
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 130px; text-align: center;font-size: 15px;">
+                                                    管理员
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 180px;text-align: center;font-size: 15px;">
+                                                    收到信的简历投递
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 210px;text-align: center;font-size: 15px;">
+                                                    2016-02-16  17:24:06
+                                                </li>
+                                                <li  style="display: block;float:left;line-height: 40px;width: 150px; color:#FDC052;  padding-left: 20px;text-align: center;font-size: 15px;">
+                                                    删除
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        </div>
+
+
+
+
+                                    </div>
+                                    <div class="messasdgea">
+                                        <div class="myemiazhao">
+                                            <a href="#">
+                                                <div class="litrsd">
+                                                    1
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    2
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    3
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    4
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    5
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    6
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    7
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    8
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd2">
+                                                    9
+                                                </div> </a>
+                                            <div class="litrsd3">
+                                                ......
+                                            </div>
+                                            <a href="#">
+                                                <div class="litrsd4">
+                                                    下一页
+                                                </div> </a>
+                                            <a href="#">
+                                                <div class="litrsd5">
+                                                    尾页
+                                                </div> </a>
+                                        </div>
+                                    </div>
+                                <div class="qianshfghe">
+                                    <div class="quadsnx">
+                                        <div class="chock">
+                                            <input type="checkbox"
+                                                   style=" width: 15px; height: 15px; margin-top: -2px;">
+                                        </div>
+                                        <div class="chock" style="line-height: 45px;">
+                                            全选
+                                        </div>
+
+
+
+                                        <a href="#">
+                                            <div class="shanchu">
+                                                删除
+                                            </div> </a>
+
+
+                                    </div>
+                                </div>
+                                </div>
+
+
+
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+            <div style="clear:both"></div>
+            <div class="footer">
+                <div class="footer-shang">
+                    <div class="container" style="width: 1170px; height: 160px;">
+                        <div class="footer-shang-tu"><img src="images/kefukr.png"
+                                                          style="height:100px; margin-top: 10px; "/>
+                            <br>
+                            <br>
+                            (客服热线)
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    关于我们
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    产品
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    服务支持
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    联系我们
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footr-sjien">
+                            <div class="wrweiema">
+                                <div class="imgwrweina"><img src="images/ios.png" style="height: 80px;"/>
+                                </div>
+                                <div class="imgwrweina2"><img src="images/anzhuio.png" style="height: 80px;"/>
+                                </div>
+                            </div>
+                            <div class="shaoyisao">
+                                (扫一扫下载app)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-xia">
+                    copyright&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011-2015&nbsp;&nbsp;&nbsp;www.wozhaozhao.com&nbsp;&nbsp;All&nbsp;&nbsp;Rights&nbsp;&nbsp;Reserved&nbsp;&nbsp;粤ICP备1279924号
+                </div>
+            </div>
+        </div>
+</body>
+</html>

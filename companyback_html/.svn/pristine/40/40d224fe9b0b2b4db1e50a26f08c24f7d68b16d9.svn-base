@@ -1,0 +1,385 @@
+.update{
+    height: 2120px;
+    width: 1050px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid #CCCCCC;
+    background: #FFFFFF;
+}.updateadc{
+    height: 2060px;
+     width: 950px;
+    margin-left: 50px;
+ }
+.updayte_heda{
+      height: 60px;
+      width: 1030px;
+     margin: 0 auto;
+    border-bottom: 1px solid #CCCCCC;
+      line-height: 60px;
+      font-size: 20px;
+      color: #333333;
+  }
+.shupdater{
+    margin-left: 30px;
+    float: left;
+    text-align: center;
+}
+.shupdater input{
+    width:400px;
+    font-size: 16px;
+    text-align: center;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+
+.shupdaer input{
+    width:400px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.shupdaer{
+    margin-left: 30px;
+    float: left;
+}
+.shupdaer textarea{
+    padding: 5px;
+}
+.shupter{
+    margin-left: 30px;
+    float: left;
+}
+.shupter input{
+    width:360px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.updateng{
+    width: 800px;
+    margin-left:30px;
+    height: 40px;
+    margin-top: 30px;
+    line-height:40px;
+}
+.updayexiala{
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-top:2px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
+}
+.updayexiala img{
+    margin-left: 10px;
+}
+.mizhe{
+    float: left;
+    color: red;
+    margin-left:10px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+.quanimg{
+    float: right;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-left: 1px solid #CCCCCC;
+}
+.quanbu{
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    width: 400px;
+    margin-left: 30px;
+    border: 1px solid #B6B6B6;
+}
+.quanbuzi{
+      float: left;
+      width: 340px;
+      margin-left: 10px;
+  }
+.quanbuzi select{
+       -webkit-appearance:none;
+       -moz-appearance:none;
+       appearance:none;
+    font-size: 14px;
+       border: none;
+    margin-left: -10px;
+    padding-left: 10px;
+       width: 398px;
+       height: 33px;
+   }
+.quanbuzi select option{
+    height: 40px;
+}
+.biyao_tiaojian{
+    height: 40px;
+    margin-left: 20px;
+    line-height: 40px;
+    width: 150px;
+    float: left;
+}
+.phoupdayeg{
+    width: 900px;
+    margin-left:30px;
+    float: left;
+    margin-top: 30px;
+    line-height:40px;
+}.ziupdayeinr{
+     height: 100px;
+     line-height: 100px;
+     width: 150px;
+     font-size: 16px;
+     float: left;
+ }
+ .jenien{
+     line-height: 25px;
+     font-size: 14px;
+ }
+.phonelg{
+    width: 900px;
+    margin-left:30px;
+    height: 40px;
+    float: left;
+    line-height:40px;
+}
+.djhiw{
+    margin-left: 30px;
+    float: left;
+    margin-top: 10px;
+}
+.aniiuwuxian{
+    height: 40px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    color: #FFFFFF;
+    background: #C4C4C4;
+}
+.aniiuwuxian2{
+    height: 40px;
+    width: 100px;
+    margin-left: 15px;
+    float: left;
+    text-align: center;
+    color: #FFFFFF;
+    background: #C4C4C4;
+}
+.aniihuisian{
+    height: 40px;
+    width: 100px;
+    float: left;
+    margin-left: 15px;
+    text-align: center;
+    color: #7C9700;
+    background-image: url("../images/kuangb.png");
+    background-size: 100% 100%;
+}
+.aniisian{
+    height: 40px;
+    width: 100px;
+    float: left;
+    margin-left: 15px;
+    text-align: center;
+    color: #7C9700;
+    border:1px solid  #9abb00;
+    background-size: 100% 100%;
+}
+.tuxiao{
+    float: left;
+    margin-top: -20px;
+    margin-left: -10px;
+}
+.pong{
+    width: 900px;
+    margin-left:30px;
+    height: 40px;
+    float: left;
+    margin-top: 20px;
+    line-height:40px;
+}.zidinsgyi{
+     margin-left: 30px;
+     float: left;
+ }
+.zidinsgyi input{
+    width:230px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.heuniken{
+    float: left;
+    font-size: 16px;
+    margin-left: 30px;
+}
+.jririxian{
+    width: 950px;
+    height: 30px;
+    margin-left: -30px;
+    margin-top: 50px;
+    border-bottom: 1px dashed #CCCCCC;
+}
+.phong{
+    width: 900px;
+    margin-left:30px;
+    height: 40px;
+    float: left;
+    margin-top: 20px;
+    line-height:40px;
+}
+.phong2{
+     width: 900px;
+     margin-left:30px;
+     height: 40px;
+     float: left;
+     line-height:40px;
+ }
+.mizdsfhe{
+    float: left;
+    color: red;
+    margin-left:10px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.certupic{
+    height: 2175px;
+    width: 100%;
+}
+.certific_kuupang{
+    height: 2175px;
+    width: 1050px;
+    margin: 0 auto;
+}
+.clear{ clear:both}
+.smjner{
+    height: 950px;
+    margin-top: 50px;
+    width: 950px;
+}
+.xiaokuang{
+    margin-left: 30px;
+    float: left;
+}
+.xiaokuang input{
+    width:110px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.dakuang{
+    margin-left: 30px;
+    float: left;
+}
+.dakuang input{
+    width:260px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.quanbupdayeu{
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    width: 150px;
+    border: 1px solid #B6B6B6;
+}
+.quanimg{
+    float: right;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-left: 1px solid #CCCCCC;
+}
+
+.quazi{
+    float: left;
+    width: 95px;
+    margin-left: 10px;
+}
+.quazi select{
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    font-size: 14px;
+    border: none;
+    margin-left: -10px;
+    padding-left: 10px;
+    width: 148px;
+    height: 33px;
+}
+
+
+.zitirj{
+    font-size: 16px;
+    float: left;
+    margin-left: 10px;
+}
+.uheji{
+    height: 300px;
+    width: 650px;
+    margin-top: 50px;
+    margin-left: 180px;
+    border: 1px solid #CCCCCC;
+}
+.shupdaersdsa{
+    margin-left: 30px;
+    float: left;
+}
+.shupdaersdsa input{
+    width:400px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.phongdad{
+    width: 900px;
+    height: 40px;
+    float: left;
+    margin-top: 20px;
+    line-height:40px;
+}
+.sjuenreui{
+    font-size: 16px;
+    color: red;
+}
+.susddadej{
+    margin-left: 190px;
+    width: 350px;
+    height: 40px;
+    margin-top: 100px;
+    background: #BCD546;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #909090;
+
+}
+.changgui{
+    margin-left: 50px;
+    float: left;
+}
+.weizhisd{
+    margin-right: 30px;
+    font-size: 14px;
+    margin-top: 10px;
+    float: right;
+}

@@ -1,0 +1,84 @@
+.tupian{
+    float: left;
+    margin-left: 5px;
+}
+.yanza{
+    width: 380px;
+    margin-left:30px;
+    height: 50px;
+    line-height: 50px;
+}
+.regindsad{
+    height: 70px;
+    width: 200px;
+    margin-top: 30px;
+    line-height: 70px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    color: #333333;
+}
+.yanza input{
+    width:250px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.zitbd22{
+    float: left;
+    width: 100px;
+    height: 40px;
+    line-height: 45px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+.xiey{
+    margin-left: 30px;
+    height: 40px;
+    line-height: 40px;
+    width: 380px;
+}
+.tyidhi{
+    margin-left: 30px;
+    color: red;
+    height: 30px;
+}
+.xiansng{
+    height: 70px;
+    line-height: 70px;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.dejer{
+    width: 150px;
+    float: left;
+    text-align: center;
+}
+.hrurh{
+    width: 120px;
+    float: left;
+    height: 40px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.djuen{
+    color: #27B244;
+    font-size: 16px;
+    float: right;
+}
+.denglu{
+    margin-left: 30px;
+    width: 380px;
+    height: 40px;
+    margin-top: 30px;
+    background: #BCD546;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #CCCCCC;
+
+}

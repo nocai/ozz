@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <title>我找找企业端修改简历</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/update.css">
+    <link rel="stylesheet" href="css/certification.css">
+    <link rel="stylesheet" href="dist/css/bootstrap.css">
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+</head>
+<body>
+<div class="wrap">
+    <div class="header">
+        <div class="header_fire">
+            <div class="header_fizu">
+                [ 上海青稞有限公司 ]
+            </div>
+            <div class="header_fiyo">
+                <p>
+                    上海**********有限公司!<span><img src="images/xiaoxi.png" style="height: 13px;"/> 消息</span>
+                    <span><img src="images/shezhi.png" style="height: 15px;"/> 设置</span>
+                    <span><img src="images/tuichu.png" style="height: 15px;"/> 安全退出</span>
+                </p>
+            </div>
+        </div>
+        <div class="header_twore">
+            <div class="container">
+                <div class="dadfegtr">
+                    <div style="height: 90px;padding-left: 0px; float: left; margin-right: 60px;">
+                        <div class="jhrjrnrirn">
+                            <img src="images/logo.png" style="height:70px; width: 110px;"/>
+                        </div>
+                        <div class="dktiotm">
+                            <div class="xuanszheom">
+                                <div>
+                                    上海 <span style="margin-left:5px; ">[选择城市]</span>
+                                </div>
+                            </div>
+                            <div class="jrnrirn">
+                                <div style=" float: left; margin-left:20px;"><img src="images/fabu.png"
+                                                                                  style="height: 20px;"/>
+                                </div>
+                                <div class=" woyao">
+                                    我要发布
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 90px;width: 1200px;">
+                        <div class=" jriornodmuf" style=" padding-right: 0px; padding-left:0px;">
+                            <ul style=" padding-right: 0px; padding-left:0px;">
+                                <a href="#">
+                                    <li style="background: #546461; color: #FFFFFF;">
+                                        首页
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        人才搜索
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        企业资料
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        高端人才
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        广告管理
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        收看广告
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        积分商城
+                                    </li> </a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="certupic">
+            <div class="certific_kuupang">
+
+                <div class="update">
+                    <div class="updayte_heda">
+                        <span style="margin-left: 50px;">修改职位</span></div>
+                    <div class="updateadc">
+
+                    <div class="phonelong">
+                        <div class="zitinr"><span style="float: right">招聘标题</span></div>
+                        <div class="shupdater">
+                            <input type="text" placeholder="高薪聘请高级UI设计师"/></div>
+                    </div>
+                    <div class="tyis">
+                    大神
+                    </div>
+                    <div class="updateng">
+                        <div class="zitinr"><span style="float: right">职位类型</span></div>
+                        <div class="quanbu">
+                            <div class="quanbuzi">
+                                <select>
+                                    <option style="width:30px;"value="1">全职</option>
+                                    <option style="width:30px; "value="2">兼职</option>
+                                </select>
+                            </div>
+                            <div class="quanimg">
+                                <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                            </div>
+                        </div>
+                        <div class="mizhe">*</div>
+                    </div>
+                    <div class="tyis">
+                    </div>
+                        <div class="updateng">
+                            <div class="zitinr"><span style="float: right">职位类别</span></div>
+                            <div class="quanbu">
+                                <div class="quanbuzi">
+                                    <select>
+                                        <option style="width:30px;"value="1">项目经理</option>
+                                        <option style="width:30px; "value="2">项目主管</option>
+                                    </select>
+                                </div>
+                                <div class="quanimg">
+                                    <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                </div>
+                            </div>
+                            <div class="mizhe">*</div>
+                        </div>
+                        <div class="tyis">
+                        </div>
+
+                        <div class="updateng">
+                            <div class="zitinr"><span style="float: right">薪资待遇</span></div>
+                            <div class="quanbu">
+                                <div class="quanbuzi">
+                                    <select>
+                                        <option style="width:30px;"value="1">面议</option>
+                                        <option style="width:30px; "value="2">8K</option>
+                                    </select>
+                                </div>
+                                <div class="quanimg">
+                                    <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                </div>
+                            </div>
+                            <div class="mizhe">*</div>
+                        </div>
+                        <div class="tyis">
+                        </div>
+                        <div class="updateng">
+                            <div class="zitinr"><span style="float: right">年龄要求</span></div>
+                            <div class="quanbu">
+                                <div class="quanbuzi">
+                                    <select>
+                                        <option style="width:30px;"value="1">不限</option>
+                                        <option style="width:30px; "value="2">21-25</option>
+                                    </select>
+                                </div>
+                                <div class="quanimg">
+                                    <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                </div>
+                            </div>
+                            <div class="mizhe">*</div>
+                            <div class="biyao_tiaojian">
+                                <input type="checkbox" style="height: 15px; width: 15px; margin-top: -2px;">
+                                <span style="margin-left: 5px;">必要条件</span></div>
+                        </div>
+                        <div class="tyis">
+                        </div>
+                        <div class="updateng">
+                            <div class="zitinr"><span style="float: right">所在户籍</span></div>
+                            <div class="quanbu">
+                                <div class="quazi">
+                                    <select>
+                                        <option style="width:30px;"value="1">不限</option>
+                                        <option style="width:30px; "value="2">上海</option>
+                                    </select>
+                                </div>
+                                <div class="quanimg">
+                                    <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                </div>
+                            </div>
+                            <div class="mizhe">*</div>
+                            <div class="biyao_tiaojian">
+                                <input type="checkbox" style="height: 15px; width: 15px; margin-top: -2px;">
+                                <span style="margin-left: 5px;">必要条件</span></div>
+                        </div>
+                        <div class="tyis">
+                        </div>
+                        <div class="updateng">
+                            <div class="zitinr"><span style="float: right">性别</span></div>
+                            <div class="quanbu">
+                                <div class="quazi">
+                                    <select>
+                                        <option style="width:30px;"value="1">男</option>
+                                        <option style="width:30px; "value="2">女</option>
+                                    </select>
+                                </div>
+                                <div class="quanimg">
+                                    <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                </div>
+                            </div>
+                            <div class="mizhe">*</div>
+                            <div class="biyao_tiaojian">
+                                <input type="checkbox" style="height: 15px; width: 15px; margin-top: -2px;">
+                                <span style="margin-left: 5px;">必要条件</span></div>
+                        </div>
+                        <div class="tyis">
+                        </div>
+                        <div class="updateng">
+                            <div class="zitinr"><span style="float: right">学历要求</span></div>
+                            <div class="quanbu">
+                                <div class="quazi">
+                                    <select>
+                                        <option style="width:30px;"value="1">不限</option>
+                                        <option style="width:30px; "value="2">大专</option>
+                                    </select>
+                                </div>
+                                <div class="quanimg">
+                                    <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                </div>
+                            </div>
+                            <div class="mizhe">*</div>
+                            <div class="biyao_tiaojian">
+                                <input type="checkbox" style="height: 15px; width: 15px; margin-top: -2px;">
+                                <span style="margin-left: 5px;">必要条件</span></div>
+                        </div>
+                        <div class="tyis">
+                        </div>
+                        <div class="updateng">
+                            <div class="zitinr"><span style="float: right">工作经验</span></div>
+                            <div class="quanbu">
+                                <div class="quanbuzi">
+                                    <select>
+                                        <option style="width:30px;"value="1">不限</option>
+                                        <option style="width:30px; "value="2">1~2年</option>
+                                    </select>
+                                </div>
+                                <div class="quanimg">
+                                    <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                </div>
+                            </div>
+                            <div class="mizhe">*</div>
+                            <div class="biyao_tiaojian">
+                                <input type="checkbox" style="height: 15px; width: 15px; margin-top: -2px;">
+                                <span style="margin-left: 5px;">必要条件</span></div>
+                        </div>
+                        <div class="tyis"></div>
+                        <div class="phonelong">
+                            <div class="zitinr"><span style="float: right">招聘人数</span></div>
+                            <div class="shupdaer"><input type="text" placeholder="10"/></div>
+                        </div>
+                        <div class="mizhe">*</div>
+
+                        <div class="phoupdayeg">
+                            <div class="ziupdayeinr"><span style="float: right">岗位职责</span></div>
+                            <div class="shupdaer"><textarea rows="5" cols="85"  class="jenien">文本作者不但完整地经历了从HR到猎头顾问，从猎头顾问到创业这着的职业生涯，而且对这两段经历中的感悟，进行了非常系统的总结，相信对后又离开这有很大的人借鉴作我这是文化层的还说我表决</textarea></div>
+
+                        </div>
+                        <div class="clear"></div>
+                        <div class="phonelg">
+                            <div class="zitinr">
+                                <span style="float: right">工作福利</span>
+                            </div>
+                            <div class="djhiw">
+                                <div class="aniiuwuxian">五险一金</div>
+                                <div class="aniihuisian">五险一金</div>
+                                <div class="aniiuwuxian2">五险一金</div>
+
+                                <div class="aniihuisian">五险一金</div>
+                                <div class="aniisian">自定义的</div>
+                                <div class="tuxiao"><img src="images/chahao.png"/></div>
+                            </div>
+                        </div>
+                        <div class="pong">
+                            <div class="zitinr"></div>
+                            <div class="zidinsgyi"><input type="text"/></div>
+                            <div class="heuniken">自定义添加福利</div>
+                            <div class="jririxian"></div>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="smjner">
+
+                          <div class="phong">
+                             <div class="zitinr"><span style="float: right">招聘联系人</span></div>
+                             <div class="shupdaer"><input type="text" placeholder="张三"/></div>
+                              <div class="mizdsfhe">*</div>
+                           </div>
+                           <div class="tyis2">dad</div>
+                           <div class="phong2">
+                               <div class="zitinr"><span style="float: right">手机号码</span></div>
+                               <div class="shupdaer"><input type="text" placeholder="电话号码、手机号必须填写一项"/></div>
+                               <div class="mizdsfhe">*</div>
+                           </div>
+                           <div class="tyis2">dad</div>
+                           <div class="phong2">
+                               <div class="zitinr"><span style="float: right">招聘人数</span></div>
+                               <div class="xiaokuang"><input type="text" placeholder="区号"/></div>
+                               <div class="dakuang"><input type="text" placeholder="电话号码"/></div>
+                               <div class="mizdsfhe">*</div>
+                           </div>
+                           <div class="tyis2">dad</div>
+                           <div class="phong2">
+                               <div class="zitinr"><span style="float: right">邮箱</span></div>
+                               <div class="shupdaer">
+                                   <input type="text" placeholder="15784844@qq.com"/>
+                               </div>
+                           </div>
+                           <div class="tyis2">dad</div>
+                           <div class="phong2">
+                               <div class="zitiphonr"><span style="float: right">工作地址</span></div>
+                               <div class="shurubr">
+                                   <div class="quanbupdayeu">
+                                       <div class="quazi">
+                                           <select>
+                                               <option style="width:30px;"value="1">上海</option>
+                                               <option style="width:30px; "value="2">江苏</option>
+                                           </select>
+                                       </div>
+                                       <div class="quanimg">
+                                           <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                       </div>
+                                   </div>
+                                   <div class="zitirj">市</div>
+                                   <div class="quanbupdayeu" style="margin-left: 50px;">
+                                       <div class="quazi">
+                                           <select>
+                                               <option style="width:30px;"value="1">上海</option>
+                                               <option style="width:30px; "value="2">杭州</option>
+                                           </select>
+                                       </div>
+                                       <div class="quanimg">
+                                           <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                       </div>
+                                   </div>
+                                   <div class="zitirj">区</div>
+                                   <div class="quanbupdayeu" style="margin-left: 50px;">
+                                       <div class="quazi">
+                                           <select>
+                                               <option style="width:30px;"value="1">浦东新区</option>
+                                               <option style="width:30px; "value="2">江干区</option>
+                                           </select>
+                                       </div>
+                                       <div class="quanimg">
+                                           <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                       </div>
+                                   </div>
+                                   <div class="zitirj">镇/街道</div>
+                                   <div class="mizdsfhe">*</div>
+                               </div>
+                           </div>
+                           <div class="tyis2">dad</div>
+                           <div class="phong2">
+                               <div class="zitinr"></div>
+                               <div class="shupdaer">
+                                   <input type="text" placeholder="上海市宝山区顾兴路17号"/>
+                               </div>
+                               <div class="uheji"></div>
+                               <div class="phongdad">
+                                   <div class="zitinr"><span style="float: right">指定招聘顾问</span></div>
+                                   <div class="quanbu">
+                                       <div class="quanbuzi">
+                                           <select>
+                                               <option style="width:30px;"value="1"></option>
+                                               <option style="width:30px; "value="2"></option>
+                                           </select>
+                                       </div>
+                                       <div class="quanimg">
+                                           <img src="images/botoon.png" style="height:11px; width: 17px; margin-left: 10px;"/>
+                                       </div>
+                                   </div>
+                                   <div class="mizdsfhe">*</div>
+                                   <div class="sjuenreui">&nbsp;&nbsp;注：未选择按默认设置</div>
+                                   <div class="tyis2">dad</div>
+                               </div>
+                               <div class="susddadej">提&nbsp;&nbsp;&nbsp;交</div>
+                           </div>
+
+
+                       </div>
+                    </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</body>
+</html>

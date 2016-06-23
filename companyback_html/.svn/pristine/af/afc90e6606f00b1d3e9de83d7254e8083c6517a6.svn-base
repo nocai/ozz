@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <title>我找找企业端</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/index_tan.css">
+    <link rel="stylesheet" href="css/refused.css">
+    <link rel="stylesheet" href="dist/css/bootstrap.css">
+    <script src="dist/js/jquery-1.9.1.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+    <script src="js/jquery.1.7.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</head>
+<body>
+<div class="wrap">
+    <div class="header">
+        <div class="header_fire">
+            <div class="header_fizu">
+                [ 上海青稞有限公司 ]
+            </div>
+            <div class="header_fiyo">
+                <p>
+                    上海**********有限公司!<span><img src="images/xiaoxi.png" style="height: 13px;"/> 消息</span>
+                    <span><img src="images/shezhi.png" style="height: 15px;"/> 设置</span>
+                    <span><img src="images/tuichu.png" style="height: 15px;"/> 安全退出</span>
+                </p>
+            </div>
+        </div>
+        <div class="header_twore">
+            <div class="container">
+                <div class="dadfegtr">
+                    <div style="height: 90px;padding-left: 0px; float: left; margin-right: 60px;">
+                        <div class="jhrjrnrirn">
+                            <img src="images/logo.png" style="height:70px; width: 110px;"/>
+                        </div>
+                        <div class="dktiotm">
+                            <div class="xuanszheom">
+                                <div>
+                                    上海 <span style="margin-left:5px; ">[选择城市]</span>
+                                </div>
+                            </div>
+                            <div class="jrnrirn" data-toggle="modal" data-target="#hongbaomeny">
+                                <div style=" float: left; margin-left:20px;"><img src="images/fabu.png"
+                                                                                  style="height: 20px;"/>
+                                </div>
+                                <div class=" woyao">
+                                    我要发布
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 90px;width: 1200px;">
+                        <div class=" jriornodmuf" style=" padding-right: 0px; padding-left:0px;">
+                            <ul style=" padding-right: 0px; padding-left:0px;">
+                                <a href="index.html">
+                                    <li style="background: #546461; color: #FFFFFF;">
+                                        首页
+                                    </li> </a>
+                                <a href="Talent_search_rencai.html">
+                                    <li>
+                                        人才搜索
+                                    </li> </a>
+                                <a href="#">
+                                    <li data-toggle="modal" data-target="#pingjiasd">
+                                        企业资料
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        高端人才
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        广告管理
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        收看广告
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        积分商城
+                                    </li> </a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="contar"
+             style="padding-right: 0px; margin-bottom: 15px;  padding-left: 0px; margin-top: 20px;">
+            <div class="index-zuo">
+                <ul>
+                    <li class="active-lijri" id="ziweinri">
+                        <div style="float: left;"><img src="images/zhiwei.png"
+                                                       style=" margin-left:15px;margin-right:15px; height: 22px;"/>
+                        </div>
+                        <div class="actziehn">
+                            公司职位
+                        </div>
+                        <img src="images/right.png" id="haiernimg"
+                             style="margin-left: 20px; height: 15px; width: 8px;"/>
+                    </li>
+                    <ul class="ziwei">
+                        <a href="#">
+                            <li id="zhiweiquanbu">
+                                <span>全部</span>
+                            </li> </a>
+                          <a href="#">
+                            <li id="senkezhong">
+                                <span>审核中</span>
+                            </li> </a>
+                           <a href="#">
+                            <li id="zhaoping">
+                                <span>招聘中</span>
+                            </li> </a>
+                            <a href="#">
+                            <li id="weiianshi">
+                                <span>未显示</span>
+                            </li> </a>
+                    </ul>
+                    <li class="active-lijri" id="guanjibr">
+                        <div style="float: left;"><img src="images/zhaping.png"
+                                                       style="margin-left:15px;margin-right:15px; height: 22px;"/>
+                        </div>
+                        <div class="actziehn">
+                            招聘管理
+                        </div>
+                        <img src="images/right.png" id="gaunjiimg" style="margin-left: 20px; height: 15px;"/>
+                    </li>
+                    <ul class="guanli">
+                        <a href="#">
+                            <li id="soudaojiankli">
+                                <span>收到的简历</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="mianshitongzhi">
+                                <span>面试通知</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="mianshitongzzhiong">
+                                <span>面试中</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="shanggang">
+                                <span>上岗</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="lishui">
+                                <span>历史</span>
+                            </li> </a>
+                    </ul>
+                    <li class="active-lijri" id="zreniadj">
+                        <div style="float: left;"><img src="images/rencai.png"
+                                                       style="margin-left:15px;margin-right:15px; height: 22px;"/>
+                        </div>
+                        <div class="actziehn">
+                            人才管理
+                        </div>
+                        <img src="images/right.png" id="rencaiimg" style="margin-left:  20px; height: 15px;"/>
+                    </li>
+                    <ul class="rencai">
+                        <a href="#">
+                            <li id="rencaiyaoqing">
+                                <span>人才邀请</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="shouqchang">
+                                <span>人才收藏</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="fujiderrencai">
+                                <span>附近人才</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="yixaizaijuianyi">
+                                <span>已下载简历</span>
+                            </li> </a>
+                    </ul>
+                    <li class="active-lijri" id="jurehndu">
+                        <div style="float: left;"><img src="images/jujue.png"
+                                                       style="margin-left:15px;margin-right:15px; height: 22px;"/>
+                        </div>
+                        <div class="actziehn">
+                            拒绝列表
+                        </div>
+                        <img src="images/right.png" id="jujueimg" style="margin-left:  20px; height: 15px;"/>
+                    </li>
+                    <ul class="jujue">
+                        <a href="#">
+                            <li id="wojujuede">
+                                <span>我拒绝的</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="beijujue">
+                                <span>被拒绝的</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="beimingdan">
+                                <span>黑名单</span>
+                            </li>
+                        </a>
+                    </ul>
+                    <li class="active-lijri" id="juhurerjh">
+                        <div style="float: left;"><img src="images/jubao.png"
+                                                       style="margin-left:15px;margin-right:15px; height: 22px;"/>
+                        </div>
+                        <div class="actziehn">
+                            举报投诉
+                        </div>
+                        <img src="images/right.png" id="tousuimg" style="margin-left: 20px; height: 15px;"/>
+                    </li>
+                    <ul class="tousu">
+                        <a href="#">
+                            <li id="qunaushud">
+                                <span>全部</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="chulizhong">
+                                <span>处理中</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="weichenglu">
+                                <span>未成立</span>
+                            </li> </a>
+                        <a href="#">
+                            <li id="chengli">
+                                <span>成立</span>
+                            </li> </a>
+                    </ul>
+                    <li class="active-lijri" id="qihrbh">
+                        <div style="float: left;"><img src="images/qita.png"
+                                                       style="margin-left:15px;margin-right:15px; height: 22px;"/>
+                        </div>
+                        <div class="actziehn">
+                            其他
+                        </div>
+                        <img src="images/right.png" id="qitaimg" style="margin-left: 55px; height: 15px;"/>
+                    </li>
+                    <ul class="huishou">
+                        <a href="#">
+                            <li id="huishouzhan">
+                                <span>回收站</span>
+                            </li> </a>
+                    </ul>
+                </ul>
+            </div>
+            <div class="index-you">
+
+                <div id="zpguanli">
+                    <div class="zhaop_list2">
+                        <div class="rjirjruj">
+                            <div class="tab">
+                                <a href="javascript:;" class="on" style=" border-right: 1px solid #FFFFFF;">全部</a>
+                                <a href="javascript:;" style=" border-right: 1px solid #FFFFFF;">处理中</a>
+                                <a href="javascript:;" style=" border-right: 1px solid #FFFFFF;">成立</a>
+                                <a href="javascript:;" style="width:212px;">未成立</a>
+                            </div>
+                            <div class="content">
+                                <li style="display:block;">
+                                    <div class="hdubrurbu">
+                                        <div class="kuanewrhsu">
+                                          <div class="diyigekuang">
+                                              <div class="jianlush">举报类型：造假</div>
+                                              <div class="jianlush">举报简历：王某某的个人简历</div>
+                                          </div>
+                                            <div class="kiuridbn">
+                                                <div class="jsidhu">举报内容：</div>
+                                                <div class="ghrubsue">
+                                                    ad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjjsdf fsdijsfn fdkjsdf fsdijjsdf fsdijsfn fdkjfsd asjsdf fsdijsfn fdkjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsasadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsassfn fdkjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsasjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsasad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdj
+                                                </div>
+                                                <div class="clear"></div>
+                                                <div class="seneie"><img src="images/tousuus.png"/></div>
+                                            </div>
+                                            <div class="kiuridbn">
+                                                <div class="jsidhu">处理结果：处理中/未成立等文字：</div>
+                                                <div class="ghrubsue">
+                                                    ad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjad asjsdf fsdijsfn fdjsdjsdf fsdijsfn fdkjfsd asadsas fdjad asadsas fdjsdf fsdijsfn fdkjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsasjsb dsfjsdf fsdijsfn fdkjfsd asadsasf fsdijsfn fdkjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsaskjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsasadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdjad asadsas fdjsb dsfjsdf fsdijsfn fdkjfsd asadsas fdj
+                                                </div>
+                                                <div class="clear"></div>
+                                            </div>
+
+                                        </div>
+                                        <div class="clear"></div>
+
+
+
+                                    </div>
+
+                                </li>
+
+
+                                <li>
+
+
+                                </li>
+
+                                <li>
+
+
+                                </li>
+                                <li>
+
+                                </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                </div>
+
+            </div>
+            </div>
+        <div class="clear"></div>
+            <div class="footer">
+                <div class="footer-shang">
+                    <div class="container" style="width: 1170px; height: 160px;">
+                        <div class="footer-shang-tu"><img src="images/kefukr.png"
+                                                          style="height:100px; margin-top: 10px; "/>
+                            <br>
+                            <br>
+                            (客服热线)
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    关于我们
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    产品
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    服务支持
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footer-jrurb">
+                            <ul>
+                                <li style="font-size: 20px;">
+                                    联系我们
+                                </li>
+                                <li>
+                                    了解我找找
+                                </li>
+                                <li>
+                                    加入我找找
+                                </li>
+                                <li>
+                                    联系我们
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="footr-sjien">
+                            <div class="wrweiema">
+                                <div class="imgwrweina"><img src="images/ios.png" style="height: 80px;"/>
+                                </div>
+                                <div class="imgwrweina2"><img src="images/anzhuio.png" style="height: 80px;"/>
+                                </div>
+                            </div>
+                            <div class="shaoyisao">
+                                (扫一扫下载app)
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-xia">
+                    copyright&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011-2015&nbsp;&nbsp;&nbsp;www.wozhaozhao.com&nbsp;&nbsp;All&nbsp;&nbsp;Rights&nbsp;&nbsp;Reserved&nbsp;&nbsp;粤ICP备1279924号
+                </div>
+            </div>
+        </div>
+
+
+</body>
+</html>

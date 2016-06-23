@@ -1,0 +1,94 @@
+.hduibruwd{
+    line-height: 50px;
+    width: 999px;
+}
+.durbuuys{
+    width: 260px;
+    float: left;
+    line-height: 50px;
+}
+.dursbnueruys{
+    width: 260px;
+    float: left;
+    line-height: 40px;
+}
+.dursbnueruys span{
+    font-size: 16px;
+    color: #333333;
+    margin-right: 10px;
+    float: right;
+}
+.xuanzheduox{
+    width: 600px;
+    float: left;
+    line-height: 50px;
+}
+.xuashueh{
+    float: left;
+    width: 700px;
+    border-left: 1px solid #CCCCCC;
+    line-height:40px;
+}
+.jisuanjihangye{
+    float: left;
+    font-size: 14px;
+    margin-left: 30px;
+}
+.durbuuys span{
+    font-size: 16px;
+    color: #333333;
+    margin-right: 10px;
+    float: right;
+}
+
+.sanjistanchaung{
+    position: absolute;
+    width: 200px;
+    font-size: 14px;
+    display: none;
+    color: #666666;
+    border: 1px solid #F5A51F;
+    margin-top: -10px;
+    line-height:30px;
+    z-index: 1100;
+    background: #FFFFFF;
+}
+.sanjistanchaung ul li{
+    font-size: 14px;
+    margin-left: 10px;
+    float: left;
+}
+.xuashueh ul li:hover>div{
+    display: block;
+}
+.xuashueh ul li:hover{
+    color:#9FB34A;
+}
+.xuashueh ul li{
+    float: left;
+    color: #666666;
+    font-size: 14px;
+    margin-left: 30px;
+}
+.jisuihangye{
+    float: left;
+    font-size: 14px;
+    margin-left: 30px;
+}
+.xiusu{
+    height: 1px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.queidng{
+    height: 30px;
+    line-height: 30px;
+    margin-top: 10px;
+    width: 80px;
+    color: #FFFFFF;
+    font-size: 14px;
+    background: #F5A623;
+    border-radius: 3px;
+    float: right;
+    margin-right: 20px;
+    text-align: center;
+}

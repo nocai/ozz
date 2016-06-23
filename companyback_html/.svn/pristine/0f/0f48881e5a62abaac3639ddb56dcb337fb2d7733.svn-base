@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <title>我找找企业端</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/update.css">
+    <link rel="stylesheet" href="css/jobdetails.css">
+    <link rel="stylesheet" href="css/certification.css">
+    <link rel="stylesheet" href="dist/css/bootstrap.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script src="js/jobdetails.js"></script>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+</head>
+<body>
+<div class="wrap">
+    <div class="header">
+        <div class="header_fire">
+            <div class="header_fizu">
+                [ 上海青稞有限公司 ]
+            </div>
+            <div class="header_fiyo">
+                <p>
+                    上海**********有限公司!<span><img src="images/xiaoxi.png" style="height: 13px;"/> 消息</span>
+                    <span><img src="images/shezhi.png" style="height: 15px;"/> 设置</span>
+                    <span><img src="images/tuichu.png" style="height: 15px;"/> 安全退出</span>
+                </p>
+            </div>
+        </div>
+        <div class="header_twore">
+            <div class="container">
+                <div class="dadfegtr">
+                    <div style="height: 90px;padding-left: 0px; float: left; margin-right: 60px;">
+                        <div class="jhrjrnrirn">
+                            <img src="images/logo.png" style="height:70px; width: 110px;"/>
+                        </div>
+                        <div class="dktiotm">
+                            <div class="xuanszheom">
+                                <div>
+                                    上海 <span style="margin-left:5px; ">[选择城市]</span>
+                                </div>
+                            </div>
+                            <div class="jrnrirn">
+                                <div style=" float: left; margin-left:20px;"><img src="images/fabu.png"
+                                                                                  style="height: 20px;"/>
+                                </div>
+                                <div class=" woyao">
+                                    我要发布
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div style="height: 90px;width: 1200px;">
+                        <div class=" jriornodmuf" style=" padding-right: 0px; padding-left:0px;">
+                            <ul style=" padding-right: 0px; padding-left:0px;">
+                                <a href="#">
+                                    <li style="background: #546461; color: #FFFFFF;">
+                                        首页
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        人才搜索
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        企业资料
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        高端人才
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        广告管理
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        收看广告
+                                    </li> </a>
+                                <a href="#">
+                                    <li>
+                                        积分商城
+                                    </li> </a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cedetaupic">
+            <div class="cedetaupic_kuupang">
+                <div class="detailse">
+                    <div class="detailskuang">
+                        <div class="detailszuo">
+                            <div class="detailsshi">
+                                <div class="shijuezhiwei">UI视觉设计（快速晋升+无责底薪+住宿）</div>
+                                <div class="yuanchengu">[远程招聘]<span style="margin-left: 20px;">[已交保证金]</span></div>
+                                <div class="xingzhjidaoyu">
+                                    6000-12000<span style="margin-left: 100px; color: #666666;">地点 | 全职 | 本科 | 经验 | 人数</span>
+                                </div>
+                                <div class="fuli">
+                                    <div class="fixanyjs">绩效奖金</div>
+                                    <div class="fixanyjs">五险一金</div>
+                                    <div class="fixanyjs">年底双薪</div>
+                                    <div class="fixanyjs">带薪年假</div>
+                                    <div class="fixanyjs">定期体检</div>
+                                    <div class="fixanyjs">年底双薪</div>
+                                    <div class="fixanyjs">带薪年假</div>
+                                    <div class="fixanyjs">定期体检</div>
+                                    <div class="fixanyjs">年底双薪</div>
+                                </div>
+                                <div class="jintinagenx">今天更新</div>
+                            </div>
+                            <div class="dertailqieu">
+                                <div class="toubuqiehuan">
+                                    <div class="zhiweini">职位描述</div>
+                                    <div class="shugang">|</div>
+                                    <div class="gonsgjie">公司介绍</div>
+                                </div>
+                                <!--职位描述-->
+                                <div class="detailsxa">
+                                    <div class="gangweizhiz">
+                                        <div class="gongsfeca">岗位职责：</div>
+                                        <div class="zhiweiz">
+                                            <p>1、负责与策略协作完成项目前期策划；</p>
+                                            <p>2、负责独立、协作完成项目所需设计作品（logo,vi,画册,网站等）；</p>
+                                            <p>3、负责分享设计经验、推动提高团队的设计能力；</p>
+                                            <p>职位要求：1、在历史上，那些拥有能力但并不善良的人类，往往给予他周边的人，环境甚至世界带来毁灭性的打击，所以心态性格最重要，多一些真诚，少一些套路；</p>
+                                            <p>2、我们需要您类，往往给予他周边的人，环境甚至世界带来毁灭性的打我们需要您有那些拥性的打击，所以心态性格最重要，多一些真诚，少一些套路；击，所以心态性格最重要，多一些真诚，少一些套路；</p>
+                                        </div>
+                                    </div>
+                                    <div class="ixnahsu"></div>
+                                    <div class="gangweizhiz">
+                                        <div class="gongsfeca">任职资格：</div>
+                                        <div class="zhiweiz">
+                                            <p>1、主动加薪制度；</p>
+                                            <p>2、设计项目提成制；</p>
+                                            <p>3、上班时间；</p>
+                                            <p>春夏：早9:30--12:00&nbsp;&nbsp;&nbsp;&nbsp;午14:00--17:30</p>
+                                            <p>秋冬：早10:00--12:00&nbsp;&nbsp;&nbsp;&nbsp;午14:00--16：00</p>
+                                            <p>4、餐补、交补；</p>
+                                            <p>5、每周一次公司内部知识分享会，两个月一次邀请各行业精英人士、企业老板公司讲座；</p>
+                                            <p>6、年假；</p>
+                                            <p>7、年底国外旅游抽奖；</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--公司介绍-->
+                                <div class="detailsfons">
+                                    <div class="gongsfeca">公司风采：</div>
+                                    <div class="imgdgongs">
+                                        <div class="imgfnru"><img src="images/qiye1.png" style="height:100px; width: 150px; "/></div>
+                                        <div class="imgfnru"><img src="images/qiye2.png" style="height:100px; width: 150px; "/></div>
+                                        <div class="imgfnru"><img src="images/qiye3.png" style="height:100px; width: 150px; "/></div>
+                                    </div>
+                                    <div class="ixnahsu"></div>
+                                    <div class="jieshaio">
+                                        <div class="gongsfeca">公司介绍：</div>
+                                        <div class="jeisush">Lhand duiahdnd ioduary ibfdb iueueh uisdab  zjhc jzhcxb zhcb Lhand duiahdnd ioduary ibfdb iueueh uisdab  zjhc jzhcxb zhcbLhand duiahdnd ioduary ibfdb iueueh uisdab  zjhc jzhcxb zhcbdasjhdu hjuasd jihaudn hahd nuda irthufr jhbfhdb  jdhfjb rjfio fjdh jjsdj skdfjs kjdf ioduary ibfdb iueueh uisdab  zjhc jzhcxb zhcb dasjhdu hjuasd jihaudn hahd nuda irthufr jhbfhdb  jdhfjb rjfio fjdh jjsdj skdfjs kjdfioduary ibfdb iueueh uisdab  zjhc jzhcxb zhcb dasjhdu hjuasd jihaudn hahd nuda irthufr jhbfhdb  jdhfjb rjfio fjdh jjsdj skdfjs kjdf</div>
+                                    </div>
+                                    <div class="ixnahsu"></div>
+                                    <div class="wangzhu">
+                                        <div class="gongsfeca">公司网址：</div>
+                                        <div class="wangzhn">www.baidu.com</div>
+                                    </div>
+                                    <div class="ixnahsu"></div>
+                                    <div class="gomhswuie">
+                                      <div class="gongshiweij">
+                                           <div class="hyeei">公司职位：</div>
+                                           <div class="aanniu">申请选中职位</div>
+                                      </div>
+                                        <div class="listziwei">
+                                            <div class="quanxianan">
+                                                <input type="checkbox" style="height: 16px; width: 16px; margin-top: -2px;">
+                                                <span style="margin-left: 10px;">全选</span>
+                                            </div>
+                                            <div class="liebiao_list">
+                                                <table class="table table-hover2" style="margin-bottom: 0px;">
+                                                    <tr>
+                                                        <th style="padding-left: 30px; width: 10px;">
+                                                            <div>
+                                                                <input type="checkbox" style=" width: 16px; height: 16px; margin-top: 10px;">
+                                                            </div></th>
+                                                        <th style="line-height: 33px;width: 120px;padding-left: 0px;">
+                                                            <div class="jsuidw">ui设计师</div>
+                                                            <div style="margin-top: -10px;">了世邦</div>
+                                                        </th>
+                                                        <th style="line-height: 33px;width: 100px;padding-left: 5px; padding-top: 20px;">地2点：上海</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;">2016-03-09</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;"><div class="jeubbe">立即申请</div></th>
+                                                    </tr>
+                                                </table>
+                                            </div>
+                                            <div class="liebiao_list">
+                                                <table class="table table-hover2"style="margin-bottom: 0px;">
+                                                    <tr>
+                                                        <th style="padding-left: 30px; width: 10px;">
+                                                            <div>
+                                                                <input type="checkbox" style=" width: 16px; height: 16px; margin-top: 10px;">
+                                                            </div></th>
+                                                        <th style="line-height: 33px;width: 120px;padding-left: 0px;">
+                                                            <div class="jsuidw">ui设计师</div>
+                                                            <div style="margin-top: -10px;">了世邦</div>
+                                                        </th>
+                                                        <th style="line-height: 33px;width: 100px;padding-left: 5px;padding-top: 20px;">地点：上海</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;">2016-03-09</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;"><div class="jeubbe">立即申请</div></th>
+                                                    </tr>
+                                                </table>
+                                            </div><div class="liebiao_list">
+                                            <table class="table table-hover2"style="margin-bottom: 0px;">
+                                                <tr>
+                                                    <th style="padding-left: 30px; width: 10px;">
+                                                        <div>
+                                                            <input type="checkbox" style=" width: 16px; height: 16px; margin-top: 10px;">
+                                                        </div></th>
+                                                    <th style="line-height: 33px;width: 120px;padding-left: 0px;">
+                                                        <div class="jsuidw">ui设计师</div>
+                                                        <div style="margin-top: -10px;">了世邦</div>
+                                                    </th>
+                                                    <th style="line-height: 33px;width: 100px;padding-left: 5px;padding-top: 20px;">地点：上海</th>
+                                                    <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;">2016-03-09</th>
+                                                    <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;"><div class="jeubbe">立即申请</div></th>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                            <div class="liebiao_list">
+                                                <table class="table table-hover2"style="margin-bottom: 0px;">
+                                                    <tr>
+                                                        <th style="padding-left: 30px; width: 10px;">
+                                                            <div>
+                                                                <input type="checkbox" style=" width: 16px; height: 16px; margin-top: 10px;">
+                                                            </div></th>
+                                                        <th style="line-height: 33px;width: 120px;padding-left: 0px;">
+                                                            <div class="jsuidw">ui设计师</div>
+                                                            <div style="margin-top: -10px;">了世邦</div>
+                                                        </th>
+                                                        <th style="line-height: 33px;width: 100px;padding-left: 5px;padding-top: 20px;">地点：上海</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;">2016-03-09</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;"><div class="jeubbe">立即申请</div></th>
+                                                    </tr>
+                                                </table>
+                                            </div>
+                                            <div class="liebiao_list">
+                                                <table class="table table-hover2"style="margin-bottom: 0px;">
+                                                    <tr>
+                                                        <th style="padding-left: 30px; width: 10px;">
+                                                            <div>
+                                                                <input type="checkbox" style=" width: 16px; height: 16px; margin-top: 10px;">
+                                                            </div></th>
+                                                        <th style="line-height: 33px;width: 120px;padding-left: 0px;">
+                                                            <div class="jsuidw">ui设计师</div>
+                                                            <div style="margin-top: -10px;">了世邦</div>
+                                                        </th>
+                                                        <th style="line-height: 33px;width: 100px;padding-left: 5px;padding-top: 20px;">地点：上海</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;">2016-03-09</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;"><div class="jeubbe">立即申请</div></th>
+                                                    </tr>
+                                                </table>
+                                            </div>
+                                            <div class="liebiao_list">
+                                                <table class="table table-hover2"style="margin-bottom: 0px;">
+                                                    <tr>
+                                                        <th style="padding-left: 30px; width: 10px;">
+                                                            <div>
+                                                                <input type="checkbox" style=" width: 16px; height: 16px; margin-top: 10px;">
+                                                            </div></th>
+                                                        <th style="line-height: 33px;width: 120px;padding-left: 0px;">
+                                                            <div class="jsuidw">ui设计师</div>
+                                                            <div style="margin-top: -10px;">了世邦</div>
+                                                        </th>
+                                                        <th style="line-height: 33px;width: 100px;padding-left: 5px;padding-top: 20px;">地点：上海</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;">2016-03-09</th>
+                                                        <th style="line-height: 33px;width: 120px;text-align: center; padding-left: 10px;padding-top: 20px;"><div class="jeubbe">立即申请</div></th>
+                                                    </tr>
+                                                </table>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--右侧公司详情介绍-->
+                        <div class="detailsyou">
+                            <div class="gongslogo">
+                                <div class="logoj"><img src="images/biejialogo.png" style="height: 80px; width: 150px;"/></div>
+                                <div class="pingpaishiji">瓦力品牌设计</div>
+                                <div class="pingpaji">长沙瓦力文化发展有限公司</div>
+                            </div>
+                            <div class="gongshuiguimo">
+                                <div class="guimo">
+                                    <div class="guimnzuo">公司规模：20-99人</div>
+                                    <div class="guimnzuo2">公司性质：民营</div>
+                                    <div class="guimnzuo2">公司行业：计算机软件</div>
+                                    <div class="guimnzuo2">公司主页：www.baidu.com</div>
+                                    <div class="guimnzuo3">
+                                        <div class="gonsghiadd">公司地址:</div>
+                                        <div class="gondd">上海市浦东灵岩南路295号（浦东软件园三林世博分园）27号一楼</div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="rehubiks"><img src="images/ejkshd.png" style="height: 120px; width: 120px;"/></div>
+                                    <div class="guimnzu">担心错过面试信息？扫码获得免费</div>
+                                    <div class="zirtiha">面试提醒</div>
+                                </div>
+                            </div>
+                            <div class="guishiimg">
+                                <div class="hshds">
+                                    <div class="imggonsg"><img src="images/tucheng1.png" style="height: 120px;width: 258px;"/></div>
+                                    <div class="imggonsg"><img src="images/tucheng2.png" style="height: 120px;width: 258px;"/></div>
+                                    <div class="imggonsg"><img src="images/tucheng4.png" style="height: 120px;width: 258px;"/></div>
+                                    <div class="imggonsg"><img src="images/tucheng3.png" style="height: 120px;width: 258px;"/></div>
+                                    <div class="imggonsg"><img src="images/tucheng5.png" style="height: 120px;width: 258px;"/></div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>
+</html>

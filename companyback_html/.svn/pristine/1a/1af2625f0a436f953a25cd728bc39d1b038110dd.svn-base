@@ -1,0 +1,316 @@
+.detailskuang{
+    height: 1575px;
+    width: 1050px;
+    margin-top: 10px;
+}
+.cedetaupic{
+    width: 100%;
+}
+.cedetaupic_kuupang{
+    width: 1050px;
+    margin: 0 auto;
+}
+.detailszuo{
+    height: 1575px;
+    width: 770px;
+    float: left;
+    border-right: 1px solid #CCCCCC;
+}
+.detailse{
+    width: 1050px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 1px solid #CCCCCC;
+    background: #FFFFFF;
+}
+.detailsshi{
+    width: 730px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.dertailqieu{
+    width: 730px;
+
+}
+.shijuezhiwei{
+    height: 100px;
+    font-size: 22px;
+    line-height: 100px;
+    margin-left: 50px;
+}
+.yuanchengu{
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    margin-left: 50px;
+}
+.xingzhjidaoyu{
+    color: #FFA71F;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 50px;
+}
+.fuli{
+    line-height: 50px;
+    width: 700px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.fixanyjs{
+    height: 40px;
+    width: 100px;
+    float: left;
+    margin-top: 5px;
+    line-height: 40px;
+    font-size: 16px;
+    margin-left: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    border: 1px solid #909090;
+    background:#BCD546 ;
+}
+.jintinagenx{
+    margin-left: 50px;
+    height: 100px;
+    width:100px;
+    margin-bottom:70px;
+    line-height: 100px;
+    font-size: 16px;
+}
+.toubuqiehuan{
+    height: 60px;
+    line-height: 60px;
+    margin-left: 50px;
+    font-size: 19px;
+}
+.zhiweini{
+      color: #CCCCCC;
+    float: left;
+    width: 100px;
+  }
+.shugang{
+    float: left;
+}
+.gonsgjie{
+    color: #333;
+    float: left;
+    margin-left: 30px;
+    width: 100px;
+}
+
+/*公司介绍*/
+.detailsfons{
+    height: 1150px;
+    width: 680px;
+    margin: 0 auto;
+}
+.gongsfeca{
+    height: 40px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333333;
+    margin-left: 25px;
+    line-height: 40px;
+
+}
+.imgdgongs{
+    height:100px;
+    line-height: 100px;
+    width: 600px;
+    margin-left: 10px;
+}
+.ixnahsu{
+    width: 680px;
+    height: 10px;
+    margin-top: 30px;
+    border-bottom: 1px dashed #CCCCCC;
+}
+.imgfnru{
+    float: left;
+    margin-left: 20px;
+    height: 100px;
+    width: 150px;
+}
+.jieshaio{
+    width: 680px;
+}
+.jeisush{
+    width: 650px;
+    margin-left: 25px;
+    margin-right: 10px;
+    font-size: 14px;
+    margin-bottom: 20px;
+    color: #6d6d6d;
+    line-height: 30px;
+}
+.wangzhu{
+    height: 60px;
+    width: 600px;
+}
+.wangzhn{
+    width: 650px;
+    margin-left: 25px;
+    font-size: 16px;
+    color: #6d6d6d;
+    line-height: 30px;
+}
+.gongshiweij{
+    height: 40px;
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333333;
+    margin-left: 25px;
+    line-height: 40px;
+}
+.gomhswuie{
+    height: 550px;
+    width: 680px;
+}
+.hyeei{
+    float: left;
+}
+.aanniu{
+    float: right;
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    margin-right: 5px;
+    margin-top: 5px;
+    color: #FFFFFF;
+    line-height: 30px;
+    text-align: center;
+    background:#8AA547 ;
+}
+.listziwei{
+    height:490px;
+    width: 680px;
+}
+.quanxianan{
+    height: 50px;
+    line-height:50px;
+    color: #6d6d6d;
+    font-size: 16px;
+    margin-left: 30px;
+    width: 680px;
+
+}
+.jeubbe{
+    height: 35px;
+    width: 100px;
+    border: 1px solid #90AA51;
+    color: #666666;
+    float: right;
+}
+.liebiao_list .table-hover2 > tbody > tr:hover {
+    background-color: #EBF2C8;
+}
+
+/*职位描述*/
+.detailsxa{
+    height: 1150px;
+    width:680px;
+    display: none;
+    margin: 0 auto;
+
+}
+.gangweizhiz{
+width: 680px;;
+}
+.zhiweiz{
+    margin-left: 25px;
+    font-size: 16px;
+    color: #6d6d6d;
+    line-height: 50px;
+}
+.detailsyou{
+    width: 278px;
+    height: 1575px;
+    float: left;
+}
+.gongslogo{
+    height: 240px;
+    width: 278px;
+    border-bottom:1px solid #CCCCCC;
+}
+.logoj{
+    height: 140px;
+    line-height: 140px;
+    width: 150px;
+    margin: 0 auto;
+}
+.pingpaishiji{
+    height: 40px;
+    line-height: 40px;
+    width: 278px;
+    font-size: 22px;
+    color: #333333;
+    text-align: center;
+}
+.pingpaji{
+    height: 40px;
+    line-height: 40px;
+    width: 278px;
+    font-size: 14px;
+    color: #666;
+    text-align: center;
+}
+.gongshuiguimo{
+    height:600px;
+    width: 278px;
+   border-bottom: 4px solid #E4E4E4;
+}
+.guimo{
+    width: 220px;
+    height: 600px;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #666;
+}
+.guimnzuo{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 20px;
+
+}
+.guimnzuo2{
+    line-height: 40px;
+}
+.guimnzu{
+    margin-top: 40px;
+    line-height: 40px;
+}
+.guimnzuo3{
+    line-height: 40px;
+}
+.zirtiha{
+    color: #FFA516;
+}
+.gonsghiadd{
+float: left;
+}
+.clear{ clear:both}
+.gondd{
+    width: 150px;
+    float: right;
+}
+.rehubiks{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 220px;
+    height: 120px;
+
+}
+.guishiimg{
+    height:700px;
+    width: 278px;
+}
+.hshds{
+    height: 700px;
+    width: 258px;
+    margin: 0 auto;
+}
+.imggonsg{
+    height: 120px;
+    width: 258px;
+    margin-top: 20px;
+}

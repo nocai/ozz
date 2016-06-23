@@ -1,0 +1,280 @@
+.fromlogin{
+    width: 1000px;
+    margin: 0 auto;
+    margin-top:50px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    margin-bottom: 100px;
+}
+.hererzuoim{
+    margin-left: 90px;
+    width: 200px;
+    height: 90px;
+    float: left;
+}
+.loginbiao{
+    height: 580px;
+    width: 1000px;
+}
+.zuobilogin{
+    height: 580px;
+    width: 1000px;
+}
+.qirehuan{
+    width: 1000px;
+    height: 50px;
+    font-size: 18px;
+}
+.regindad{
+    height: 48px;
+    line-height:48px;
+    text-align: center;
+    float: left;
+    width: 500px;
+    border-bottom: 2px solid #BDBDBD;
+    border-right: 1px dashed #666666;
+}.loginhr{
+     height: 48px;
+     line-height:48px;
+     text-align: center;
+     float: left;
+     width: 498px;
+     background-image: url("../images/back.png");
+     background-size: 100% 100%;
+ }
+ .baiseback{
+         border-bottom: 2px solid #BDBDBD;
+         background: #FFFFFF;
+     }
+
+.baisebk{
+    border-bottom: 2px solid #FFFFFF;
+    height: 50px;
+    border-right: 1px dashed #FFFFFF;
+}
+ .back{
+     background-image: url("../images/back.png");
+     background-size: 100% 100%;
+ }
+ .kuanduim{
+     height: 580px;
+     width: 800px;
+     text-align: center;
+     margin: 70px 0  0 120px;
+ }
+ .zitiphonr{
+     height: 50px;
+     line-height: 50px;
+     width: 150px;
+     font-size: 16px;
+     float: left;
+ }
+
+.shuru{
+    margin-left: 30px;
+    float: left;
+}
+.phonelo{
+    width: 800px;
+    margin-left:30px;
+    height: 50px;
+    line-height: 50px;
+}
+.shuru input{
+    width:450px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 50px;
+    height: 50px;
+}
+.shurubr{
+    margin-left: 30px;
+    float: left;
+}
+.shurubr input{
+    width:420px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.jreirnsd{
+    float: left;
+    text-align: center;
+    margin-left: 10px;
+    height: 40px;
+    margin-top:2px;
+    font-size: 16px;
+    width: 110px;
+    color: #FFFFFF;
+    background: #BCD546;
+    line-height: 40px;
+}
+.shurudf{
+    margin-left: 30px;
+    float: left;
+}
+.shurudf input{
+    width:300px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.yanzmie{
+    width: 800px;
+    margin-left:30px;
+    height: 50px;
+    line-height: 50px;
+}
+.yanzmie input{
+    width:310px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 50px;
+    height: 50px;
+}
+.tupianlo{
+    width:40px;
+    line-height: 50px;
+    height: 50px;
+    margin-left: 15px;
+    float: left;
+}
+.lsoginhr{
+    margin-left: 200px;
+    width: 380px;
+    height: 40px;
+    margin-top: 30px;
+    background: #BCD546;
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid #CCCCCC;
+
+}
+.xiansnglo{
+    height: 70px;
+    line-height: 70px;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top: 50px;
+}.hrurhlo{
+     width: 300px;
+     float: left;
+     height: 40px;
+     border-bottom: 1px solid #CCCCCC;
+ }.dejerlo{
+      width: 150px;
+      float: left;
+      text-align: center;
+  }
+.lofoglo{
+    height: 80px;
+    width:430px;
+    margin: 0 auto;
+}
+.brjrb{
+    height: 80px;
+    width: 100px;
+    float: left;
+}
+.wdixwelo{
+    height: 80px;
+    width: 100px;
+    margin-right: 30px;
+    float: right;
+}
+.reginlogin{
+    height: 1150px;
+    display: none;
+    width: 1000px;
+}
+.loginzhec{
+    height: 1150px;
+    width: 700px;
+    margin-left: 180px;
+}
+.reginlowangji{
+    height: 550px;
+    width: 1000px;
+}
+.loginzhecwa{
+    height: 550px;
+    width: 700px;
+    margin-left: 180px;
+}
+.regindsad2{
+    height: 70px;
+    width: 200px;
+    margin-top: 10px;
+    line-height: 70px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: #333333;
+}
+.quanbu{
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    width: 133px;
+    border: 1px solid #B6B6B6;
+}
+.quanimg{
+    float: right;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-left: 1px solid #CCCCCC;
+}
+.quanbuzi{
+    float: left;
+    width:73px;
+    margin-left:10px;
+}
+.quanbuzi select{
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    font-size: 14px;
+    border: none;
+    margin-left: -10px;
+    padding-left: 10px;
+    width: 131px;
+    height: 33px;
+}
+.phoneloyong{
+    width: 600px;
+    margin-left:30px;
+    height: 40px;
+    line-height:40px;
+}
+.xieyi22sd{
+    margin-left: 100px;
+    height: 40px;
+    line-height: 40px;
+    width: 380px;
+}.sunbisidrej{
+     margin-left: 250px;
+     width: 300px;
+     height: 40px;
+     margin-top: 20px;
+     background: #BCD546;
+     color: #FFFFFF;
+     font-size: 18px;
+     line-height: 40px;
+     text-align: center;
+     border: 1px solid #CCCCCC;
+
+ }
+ .tyidhidas{
+     margin-left: 70px;
+     color: red;
+     line-height: 40px;
+     height: 30px;
+ }

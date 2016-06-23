@@ -1,0 +1,1391 @@
+.bgruhdu{
+    height: 50px;
+}
+.bgruhdu .tab{
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    overflow:hidden;
+    background:#6A7976;
+}
+.bgruhdu .tab a{
+    display:block;
+    width:284px;
+    float:left;
+    text-decoration:none;
+    color:#FFFFFF;
+    text-align: center;
+}
+.bgruhdu .tab a.on{
+    background:#fff;
+    text-decoration:none;
+    color: #333333;
+}
+/*我的金库*/
+.isahdgedre{
+ height: 160px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.tuoxiangjs{
+    float: left;
+    width: 200px;
+    height: 160px;
+}
+.tuoxiangjs img{
+    height: 70px;
+    width: 70px;
+    margin-left:80px;
+    margin-top: 30px;
+
+}
+.hruruadws{
+    float: left;
+    width: 480px;
+    height: 160px;
+}
+.mintris{
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.mintriszizhan{
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #666666;
+}
+.huangjisuia{
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #666666;
+}
+.ujdsuug{
+    float: left;
+}
+.ujdsuug p img{
+    height: 15px;
+    width: 15px;
+}
+.furrurug{
+    float: left;
+}
+.furrurug span{
+    color:#1F9EB9 ;
+    margin-left: 20px;
+}
+.geuhderusy{
+    float: left;
+}
+.nsrurduhe{
+    height: 35px;
+    line-height: 30px;
+    width: 100px;
+    font-size: 16px;
+    color: #FFB12A;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 3px;
+    text-align: center;
+    border: 1px solid #FFB12A;
+}
+.dsdhrhu{
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #666666;
+    margin-left: 40px;
+}
+.rjnudsyfu{
+    height: 120px;
+    margin-top: 7px;
+    border-top: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.jebubeu{
+    width: 150px;
+    padding-left: 40px;
+    float: left;
+    font-size: 16px;
+    padding-top: 20px;
+    height: 70px;
+}
+.jebhruiubeu{
+    float: left;
+}
+.jroenisd{
+  height: 30px;
+    line-height: 30px;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #8AA427;
+}
+.jroenisd span{
+    color: red;
+    margin-left: 70px;
+}
+.rhuehi{
+ height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    color: #666666;
+}
+.rjnuhofsyfu{
+    height: 160px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.jebujribeu{
+    width: 150px;
+    padding-left: 40px;
+    float: left;
+    font-size: 16px;
+    padding-top: 30px;
+    height: 70px;
+}
+.jrojhrinisd{
+    height: 30px;
+    line-height: 30px;
+    margin-top: 50px;
+    color: #666666;
+    font-size: 14px;
+}
+.jrojhrinisd span{
+    color: #8AA427;
+}
+.nriehebu{
+    margin-left: 10px;
+    float: left;
+}
+.nriehebu2{
+    float: left;
+    margin-left: 80px;
+}
+.rhuehdsdi{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666666;
+}
+.nruehueb{
+    height: 35px;
+    line-height: 35px;
+    width: 100px;
+    color: #FFFFFF;
+    float: left;
+    text-align: center;
+    background: #8AA427;
+
+}
+.nruehueb2{
+    height: 35px;
+    line-height: 35px;
+    width: 100px;
+    color: #FFFFFF;
+    float: left;
+    margin-left: 30px;
+    text-align: center;
+    background: #8AA427;
+
+}
+.sduwrrbil{
+    margin-top: 7px;
+    border-top: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
+    height: 160px;
+}
+.sgwujeh{
+    float: left;
+    width: 284px;
+    height: 160px;
+    border-right: 1px solid #CCCCCC;
+}
+.sgwuje{
+    float: left;
+    width: 285px;
+    height: 160px;
+}
+.shueeeh{
+    height: 30px;
+    font-size: 16px;
+    margin-top: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+.xiangxij{
+    height: 40px;
+    font-size: 14px;
+    text-align: center;
+    color: #666666;
+    line-height: 40px;
+}
+.quzhaunq{
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+    color: #FF9F00;
+    text-align: center;
+}
+.qianbaoshu{
+    height: 400px;
+}
+.ruheudbue{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.ududh{
+    font-size: 16px;
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    margin-left: 50px;
+}
+.gengduoyou{
+    float: right;
+    font-size: 14px;
+    margin-left: 50px;
+    margin-right: 30px;
+    color: #8AA427;
+}
+.ndihfu8rru7{
+    height: 180px;
+    border-bottom: 1px dashed #CCCCCC;
+}
+.jehue{
+    height: 180px;
+    width: 426px;
+    float: left;
+}
+.tuiajsi{
+    height: 160px;
+    width: 160px;
+    float: left;
+    margin-left: 10px;
+}
+.tuiajsi img{
+    height: 140px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 140px;
+}
+.hddhueys{
+    height: 160px;
+    width: 250px;
+    float: left;
+}
+.titeldf{
+    font-size: 16px;
+    margin-top: 20px;
+
+}
+.chuxiao{
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    width: 100px;
+    color: #FFFFFF;
+    margin-left: 5px;
+    font-size: 14px;
+    border-radius: 2px;
+    background:#FF9A00 ;
+
+}
+.zhuishue{
+    height: 40px;
+    line-height:40px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #666666;
+}
+.zhuishue span{
+    margin-left: 20px;
+
+}
+.knrudbygy{
+    height: 40px;
+    line-height:40px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    color: #666666;
+}
+.knrudbygy span{
+    margin-left: 10px;
+}
+/*我的金库end*/
+
+/*我的金库-充话费*/
+.eduisjihdbb{
+    height: 50px;
+    line-height: 50px;
+}
+.nsudhien{
+    font-size: 14px;
+    float: right;
+    margin-right: 20px;
+}
+.eduisjihdbb span{
+    color: #8AA427;
+}
+.kiushus{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 30px;
+    margin-left: 200px;
+    width: 500px;
+}
+.kiushus input{
+    width: 480px;
+    height: 35px;
+    font-size: 14px;
+    line-height: 35px;
+}
+.zhoabus_ak{
+    height: 100px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+.zhaobuanniu{
+    height: 70px;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px;
+    color: #FFFFFF;
+    float: left;
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+    background:#BCD546 ;
+    width: 130px;
+}
+.zhaobdsjiu{
+    height: 70px;
+    border: 1px solid #CCCCCC;
+    border-radius: 3px;
+    float: left;
+    margin-top: 20px;
+    font-size: 14px;
+    text-align: center;
+    background:#EEEEEE ;
+    margin-left: 43px;
+    width: 130px;
+}
+.nsishus1{
+    margin-top: 10px;
+    line-height: 25px;
+}
+.nsishus2{
+    line-height: 25px;
+}
+.hosnus1{
+    margin-top: 10px;
+    color: #F9B141;
+    line-height: 25px;
+}
+.hosnus2{
+    line-height: 25px;
+}
+.xsueb{
+    height: 2px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.zhaozhaiobi{
+    height: 110px;
+    width: 450px;
+    margin-left: 220px;
+}
+.nduidhdu{
+    float: right;
+    margin-right: 5px;
+}
+.wdzhso{
+   margin-top: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.wdzhso input{
+    height: 15px;
+    width: 15px;
+}
+.wdzhso span{
+    margin-left: 5px;
+}
+.wdzhso2{
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #666666;
+}
+
+.wdzhso2 input{
+    height: 15px;
+    width: 15px;
+}
+.wdzhso2 span{
+    margin-left: 5px;
+}
+.shueeburs{
+    float: left;
+}
+.zhifuima{
+    height: 170px;
+    background: #F2F6F9;
+}
+.qirensijh{
+    padding-top: 70px;
+    height: 316px;
+    margin-left: 340px;
+}
+.shushdeh{
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 50px;
+}
+.subudud{
+    margin-left: 310px;
+    padding-top: 40px;
+}
+.subudud ul li{
+    float: left;
+    margin-left: 5px;
+}
+.subudud ul li input{
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    width: 35px;
+}
+.chon2gzh{
+    height: 40px;
+    font-size: 14px;
+    width: 200px;
+    line-height: 40px;
+    text-align: center;
+    background: #8AA427;
+    color: #FFFFFF;
+}
+/*我的金库-充话费end*/
+
+/*会员中心-会员升级*/
+.nssnu{
+    float: left;
+    margin-left: 30px;
+    font-size: 16px;
+}
+.husuiheugs{
+    height: 60px;
+    line-height: 60px;
+    margin-left:10px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.sdbvehbd{
+    float: left;
+    margin-left: 20px;
+}
+.sdbvehbd img{
+    height: 50px;
+    width: 240px;
+}
+.qirmi8ijh{
+    padding-top:50px;
+    margin-top: 7px;
+    border-top: 1px solid #CCCCCC;
+    height: 550px;
+}
+.chodnidgzh{
+    height: 40px;
+    width: 200px;
+    line-height: 40px;
+    margin-left: 340px;
+    margin-top: 100px;
+    text-align: center;
+    background: #8AA427;
+    color: #FFFFFF;
+}
+.zhsihfij{
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px;
+    margin-left: 200px;
+}
+.zhifufshi{
+    height: 60px;
+    line-height: 60px;
+    width: 480px;
+    margin-left: 190px;
+}
+.zhifuuy3b{
+    float: left;
+    margin-left: 10px;
+    height: 50px;
+    width: 140px;
+}
+.bsudsburd{
+    height: 160px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.quanbu{
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    width: 450px;
+    margin-top: 40px;
+    margin-left: 200px;
+    border: 1px solid #B6B6B6;
+}
+.quanbuzi{
+    float: left;
+    width: 360px;
+    margin-left: 10px;
+}
+.quanbuzi select{
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    font-size: 14px;
+    border: none;
+    margin-left: -10px;
+    padding-left: 10px;
+    width:448px;
+    height: 33px;
+}
+.quanimg{
+    float: right;
+    height: 40px;
+    width: 60px;
+    line-height: 40px;
+    border-left: 1px solid #CCCCCC;
+}
+.jiesjsuh{
+    height: 30px;
+    width: 450px;
+    line-height: 30px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.jinsjuekr{
+    float: left;
+    font-size: 14px;
+}
+.jinsjuekr span{
+    color: #FF9707;
+}
+.sujebudb{
+    font-size: 14px;
+    float: right;
+}
+.sujebudb input{
+    height: 15px;
+    width: 15px;
+}
+.sujebudb span{
+    margin-left: 3px;
+}
+
+/*我的金库-充话费end*/
+
+/*我的金库-提款*/
+.quanbsju{
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    width: 450px;
+    margin-left: 200px;
+    border: 1px solid #B6B6B6;
+}
+
+.sujebu8heub{
+    font-size: 14px;
+    color: #8AA427;
+    float: right;
+}
+.qirmijihijh{
+    padding-top:20px;
+}
+.tiixandao{
+    font-size: 16px;
+}
+.tiixa1ndao{
+    margin-top: 30px;
+     font-size: 16px;
+ }
+.jiesjs3uh{
+    height: 30px;
+    width: 450px;
+    line-height: 30px;
+    margin-left: 200px;
+}
+.snjhwuebui{
+    margin-left: 200px;
+}
+.bsiruehu{
+    margin-top: 10px;
+}
+.bhsusu input{
+    width: 450px;
+    height: 35px;
+    padding-left: 10px;
+    float: left;
+    line-height: 35px;
+    font-size: 14px;
+    margin-left: 200px;
+}
+.yurbaosh{
+    height: 100px;
+    font-size: 25px;
+    line-height: 100px;
+    text-align: center;
+
+}
+.yurbaosh span{
+    color: #FF9F00;
+
+}
+
+.hsirh8y7s{
+    float: left;
+    margin-left: 10px;
+    font-size: 14px;
+    height: 35px;
+    line-height: 35px;
+    color: #666666;
+}
+.jihysg{
+    width: 450px;
+    font-size: 14px;
+    line-height: 30px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.antistji{
+    height: 40px;
+    line-height: 40px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 230px;
+    margin-bottom: 80px;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+.jsujeu{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 150px;
+     float: left;
+    background: #FF9F00;
+}
+.jtixianu{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 150px;
+    float:right;
+    background: #8AA427;
+}
+/*我的金库-提款end*/
+/*我的金库-会员中心-钱币兑换找币*/
+.nsuergued input{
+    height: 40px;
+    padding-left: 10px;
+    color: #666666;
+    line-height: 40px;
+    font-size: 16px;
+    margin-left: 150px;
+    width: 500px;
+
+}
+.nsuergued{
+    float: left;
+}
+.suieei{
+    height: 40px;
+    line-height: 40px;
+    width: 60px;
+    font-size: 16px;
+    float: left;
+    text-align: center;
+    color: #FF9F00;
+    border-top: 1px solid #A9A9A9;
+    border-right: 1px solid #A9A9A9;
+    border-bottom: 1px solid #A9A9A9;
+}
+.xsuebdhhw1{
+    height: 40px;
+}
+.tiixdsduw2andao{
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.snjh22ebui{
+    margin-left: 70px;
+}
+.snjh22ebui span{
+    color: #FF9F00;
+}
+.ndidheuge{
+    height:30px;
+    width: 560px;
+    margin-bottom: 30px;
+    margin-left: 150px;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #FF9F00;
+}
+.snuegrydge{
+     float: left;
+}
+.duihuanli{
+float: right;
+}
+.jduihuu{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    margin: 0 auto;
+    width: 150px;
+    background: #8AA427;
+}
+.shus876h{
+    margin-left: 260px;
+    height: 50px;
+    padding-top: 20px;
+    font-size: 16px;
+    line-height: 50px;
+}
+.hsuhyei{
+    height: 40px;
+    font-size: 14px;
+    line-height: 40px;
+    margin-left: 280px;
+}
+.hsuhyei span{
+    color: #FF9F00;
+}
+.qir2jihijh{
+    padding-top: 20px;
+    margin-top: 7px;
+    height: 634px;
+    border-top: 1px solid #CCCCCC;
+}
+/*我的金库-会员中心-钱币兑换找币end*/
+
+/*我的金库-.....-充值兑换找币*/
+.bsjeuiruehu{
+    margin-top: 10px;
+    height: 40px;
+    margin-bottom: 30px;
+
+}
+.hsirhjury7s{
+    float: left;
+    margin-left: 10px;
+    font-size: 16px;
+    height: 35px;
+    line-height: 35px;
+}
+.sjeuh{
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+    border-bottom: 1px solid #CCCCCC;
+}
+.sjeuh span{
+    color: #666666;
+    font-size: 14px;
+}
+.qirmij9hijh{
+    height: 535px;
+    padding-top:50px;
+}
+.sahngyibui{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 150px;
+    float: left;
+    background: #BCD546;
+}
+.xiayibuos{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 150px;
+    float:right;
+    background: #8AA427;
+}
+.qsndusguw{
+    height: 100px;
+    margin-top: 30px;
+    font-size: 18px;
+    line-height: 100px;
+    text-align: center;
+}
+.qsndusguw span{
+    color: #FF9F02;
+}
+.hsirhju1s{
+    float: left;
+    margin-left: 10px;
+    font-size: 14px;
+    height: 35px;
+    color: #666666;
+    line-height: 35px;
+}
+.ndidheug22e{
+    height:30px;
+    width: 450px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+.duihus2anli{
+    float: right;
+}
+.duihus2anli span{
+    color: #FF9F00;
+}
+.xi2buos{
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 150px;
+    margin: 0 auto;
+    background: #8AA427;
+}
+.antist34ji{
+    height: 425px;
+    line-height: 40px;
+    width: 400px;
+    margin-top: 83px;
+    margin-left: 230px;
+    margin-bottom: 80px;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+.xiawen{
+    height: 20px;
+    line-height: 20px;
+    border-bottom: 1px solid #cccccc;
+}
+.shuregru{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+.shurgru{
+    height: 40px;
+    font-size: 14px;
+    color: #EAB54E;
+    text-align: center;
+}
+.shu223ru{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 10px;
+    color: #666666;
+    font-size: 16px;
+    text-align: center;
+}
+.annisjijhusa{
+    height: 50px;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.anjijhusa{
+    height: 50px;
+    margin: 0 auto;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.queding3s{
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    width: 200px;
+    background: #8AA427;
+    border: 1px solid #cccccc;
+}
+.ujdsuug img{
+    height:25px;
+    width: 25px;
+}
+.quedis{
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    width: 150px;
+    background: #8AA427;
+    border: 1px solid #cccccc;
+}
+.djiejeursdh{
+    padding-top: 50px;
+    margin-left: 120px;
+}
+.djiejeursdh ul li{
+    float: left;
+    margin-left: 5px;
+}
+.djiejeursdh ul li input{
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    width: 35px;
+}
+.djiejeurh{
+    margin-left: 120px;
+}
+.djiejeurh ul li{
+    float: left;
+    margin-left: 5px;
+}
+.djiejeurh ul li input{
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    width: 35px;
+}
+/*我的金库-.....-充值兑换找币end*/
+
+
+/*6-21*/
+/*企业资料*/
+.sniehrur{
+    width: 500px;
+    float: left;
+}
+.sniehrur2{
+    float: left;
+}
+.photabeong{
+    margin-left:10px;
+    height: 40px;
+    margin-top: 10px;
+    line-height:40px;
+}
+.zitin2223r{
+    height: 40px;
+    line-height: 40px;
+    width: 120px;
+    font-size: 16px;
+    float: left;
+}
+.shupd2er{
+    margin-left: 20px;
+    float: left;
+    text-align: center;
+}
+.shupd2er input{
+    width:300px;
+    font-size: 16px;
+    text-align: center;
+    color: #666666;
+    line-height: 35px;
+    height: 35px;
+}
+.tyi223s{
+    margin-left:150px;
+    color: red;
+    display: none;
+    width: 600px;
+    float: left;
+    height: 15px;
+}
+.mizhe{
+    float: left;
+    color: red;
+    margin-left:10px;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.mizhe2{
+    float: left;
+    color: red;
+    margin-left:10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.details_qite{
+    float: left;
+    margin-top: 20px;
+    margin-bottom:20px;
+    margin-left: 30px;
+}
+.hue8iohr7erb{
+    float: left;
+    height:400px;
+    margin-top: 50px;
+    width: 300px;
+}
+.hdiush{
+    height: 240px;
+    width: 200px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.hdiush img{
+    height: 200px;
+    width: 180px;
+    text-align: center;
+
+
+}
+.hsjueghs{
+    height: 30px;
+    line-height: 30px;
+    width: 100px;
+    text-align: center;
+    background: #F5A623;
+    color: #FFFFFF;
+    font-size: 16px;
+    border-radius: 2px;
+    margin:0 auto;
+}
+.upd34teng{
+    margin-left:10px;
+    margin-top: 20px;
+    height: 40px;
+    line-height:40px;
+}
+.zit3nr{
+    height: 40px;
+    line-height: 40px;
+    width: 120px;
+    font-size: 16px;
+    float: left;
+}
+.qhruhreu{
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    margin-left: 20px;
+    width: 300px;
+    border: 1px solid #B6B6B6;
+}
+.quanbryr3uzi{
+    float: left;
+    width: 240px;
+    margin-left: 10px;
+}
+.quanbryr3uzi select{
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    font-size: 14px;
+    border: none;
+    margin-left: -10px;
+    padding-left: 10px;
+    width: 298px;
+    height: 33px;
+}
+.quan23img{
+    float: right;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-left: 1px solid #CCCCCC;
+}
+.xsue23b{
+     height: 2px;
+     margin-top: 40px;
+     border-bottom: 1px solid #CCCCCC;
+ }
+.xsufenczia3b{
+    height: 2px;
+    margin-top: 40px;
+}
+.jueryurijh{
+    padding-top: 20px;
+    margin-top: 7px;
+    border-top: 1px solid #CCCCCC;
+}
+.jueryurijh1{
+    padding-top: 20px;
+    margin-top: 7px;
+}
+
+.jieneu{
+    font-size: 16px;
+    margin-left: 65px;
+        height: 40px;
+    line-height: 40px;
+}
+.shupdaer{
+    margin-top: 10px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+.jenien{
+    border: 1px solid #CCCCCC;
+    padding: 10px;
+    width: 740px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.jenien_details{
+    padding: 10px;
+    width: 740px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.niseuieie{
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    margin-left: 100px;
+}
+.chakanxiangs{
+    height: 35px;
+    line-height: 35px;
+    color: #8DA334;
+    font-size: 14px;
+    float: left;
+    width: 130px;
+    border-radius: 2px;
+    margin-left: 20px;
+    text-align: center;
+    border: 1px solid #8DA334;
+}
+.neeueh{
+    float: left;
+}
+.sausi234itu{
+    margin-left: 70px;
+}
+.sausfen34itu{
+    margin-left: 70px;
+}
+.tupiansaitu img{
+    height: 90px;
+    width: 130px;
+}
+.djhiw{
+    margin-left: 90px;
+    float: left;
+    margin-top: 10px;
+}
+.aniiuwuxian{
+    height: 40px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    color: #FFFFFF;
+    background: #C4C4C4;
+}
+.aniiuwuxian2{
+    height: 40px;
+    width: 100px;
+    margin-left: 15px;
+    line-height: 40px;
+    float: left;
+    text-align: center;
+    color: #FFFFFF;
+    background: #C4C4C4;
+}
+.aniihuisian{
+    height: 40px;
+    width: 100px;
+    float: left;
+    margin-left: 15px;
+    text-align: center;
+    line-height: 40px;
+    color: #7C9700;
+    background-image: url("../images/kuangb.png");
+    background-size: 100% 100%;
+}
+.aniisian{
+    height: 40px;
+    width: 100px;
+    line-height: 40px;
+    float: left;
+    margin-left: 15px;
+    text-align: center;
+    color: #7C9700;
+    border:1px solid  #9abb00;
+    background-size: 100% 100%;
+}
+.tuxiao{
+    float: left;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.pong{
+    width: 900px;
+    margin-left:90px;
+    height: 40px;
+    float: left;
+    margin-top: 20px;
+    line-height:40px;
+}
+.zidinsgyi{
+    float: left;
+}
+.zidinsgyi input{
+    width:230px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 35px;
+    height: 35px;
+}
+.heuniken{
+    float: left;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.sqielianxir{
+    margin-left: 20px;
+    float: left;
+    text-align: center;
+}
+.sqielianxir input{
+    width:300px;
+    font-size: 16px;
+    padding-left: 10px;
+    color: #666666;
+    line-height: 35px;
+    height: 35px;
+}
+.quanbupdayeu{
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    margin-left: 70px;
+    width: 150px;
+    border: 1px solid #B6B6B6;
+}
+.quazi{
+    float: left;
+    width: 75px;
+    margin-left: 10px;
+}
+.quazi select{
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    font-size: 14px;
+    border: none;
+    margin-left: -10px;
+    padding-left: 10px;
+    width: 148px;
+    height: 33px;
+}
+.zitirj{
+    font-size: 16px;
+    float: left;
+    line-height:40px;
+    margin-left: 10px;
+}
+
+.shdsaddaer{
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+.shdsaddaer input{
+    width:400px;
+    font-size: 16px;
+    padding-left: 15px;
+    color: #666666;
+    line-height: 40px;
+    height: 40px;
+}
+.snuwhgeu7{
+    height: 300px;
+    width: 800px;
+    margin:0 auto;
+    border: 1px solid #cccccc;
+}
+.nsiebksni{
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    background: #BCD546;
+    font-size: 16px;
+    margin: 0 auto;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid #999;
+}
+.update_qiye{
+    height: 40px;
+    line-height: 40px;
+    margin-top: 20px;
+
+}
+.details_update{
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    width: 60px;
+    color: #90A23B;
+    font-size: 14px;
+    border-radius: 3px;
+    margin-right: 20px;
+    border: 1px solid #90A23B;
+    float: right;
+}
+.shangshue{
+    height: 40px;
+    margin-top: 50px;
+    line-height: 40px;
+}
+.sheurueh{
+    float: left;
+    font-size: 18px;
+}
+.renzejier{
+  color: #FFFFFF;
+    background: #F5A623;
+    font-size: 14px;
+    width: 60px;
+    margin-left: 20px;
+    border-radius: 3px;
+    margin-top: 5px;
+    float: left;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+.chehusos{
+    line-height: 30px;
+    font-size: 14px;
+}
+.njeie{
+    line-height:25px;
+    font-size: 14px;
+    color: #666666;
+}
+/*企业资料end*/

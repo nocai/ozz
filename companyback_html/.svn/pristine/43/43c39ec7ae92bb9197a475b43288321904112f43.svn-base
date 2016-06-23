@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我找找企业端</title>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/registered.css">
+    <link rel="stylesheet" href="css/jologin.css">
+    <link rel="stylesheet" href="css/forget.css">
+    <link rel="stylesheet" href="dist/css/bootstrap.css">
+</head>
+<body>
+<div class="wrap">
+    <div class="heercd">
+        <div class="contain">
+        <div class="hererzuoim">
+            <img src="images/gerenlogo.png" style="height: 70px; margin-top: 10px; "/>
+        </div>
+        <div class="hereryou">
+            <div class="qiye">
+                <div class="qiyeziti">我是企业HR</div>
+                <div class="xiankuan">
+                    <div class="tupian"><img src="images/bsphone.png" style="height: 35px; width: 22px; margin-top: -5px;"/></div>
+                    <div class="zitibs">手机我找找</div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="fromlogin">
+        <div class="reginlowangji">
+            <div class="loginzhecwa">
+                <div class="regindsad2">忘记密码</div>
+                <div class="phoneloyong">
+                    <div class="euijeuidxncf"><input type="text" placeholder="请输入手机号码/邮箱"/></div>
+                </div>
+                <div class="tyidhidas">
+                    <div class="hrrui">密码不能为空!!</div>
+                </div>
+                <div class="phoneloyong">
+                    <div class="euijeu"><input type="text" placeholder="请输入验证码"/></div>
+                    <div class="jreirnsd">获取验证码</div>
+                </div>
+                <div class="tyidhidas">
+                    <div class="hrrui">密码不能为空!!</div>
+                </div>
+                <div class="tyidhidas">
+                    <span>新密码</span>
+                </div>
+                <div class="phoneloyong">
+                    <div class="euijeuidxncf"><input type="text" placeholder="请输入新密码"/></div>
+                </div>
+                <div class="tyidhidas">
+                    <div class="hrrui">密码不能为空!!</div>
+                </div>
+                <div class="tyidhidas">
+                    <span>确认密码</span>
+                </div>
+                <div class="phoneloyong">
+                    <div class="euijeuidxncf"><input type="text" placeholder="请再次输入密码"/></div>
+                </div>
+                <div class="tyidhidas">
+                    <div class="hrrui">密码不能为空!!</div>
+                </div>
+
+
+
+                <div class="sunbiquej">确&nbsp;&nbsp;&nbsp;认</div>
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+</body>
+</html>

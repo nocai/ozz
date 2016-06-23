@@ -1,0 +1,78 @@
+@import url(./reset.css);
+
+.fright {
+	float: right;
+}
+
+.fleft {
+	float: left;
+}
+
+.orange_bg {
+	background-image: url(../images/orange_bg.png);
+}
+
+body {
+	width: auto;
+}
+header {
+	background: gray;
+}
+
+header div {
+	float: left;
+}
+
+header h1 {
+	text-align: center;
+}
+
+
+.content {
+	text-align: center;
+	margin: 0 10%;
+}
+
+.login {
+	margin-top: 70px;
+}
+.content input,button {
+	border: 0;
+	margin-bottom: 5px;
+}
+
+.username {
+	height: 32px;
+	text-indent:32px;
+	width: 100%;
+	background: url(../images/user.png)  no-repeat;
+}
+
+.sub {
+	width: 100%;
+	color: #F2F2F2;
+}
+
+.pwd{
+	height: 32px;
+	text-indent:32px;
+	width: 100%;
+	background: url(../images/pwd.png)  no-repeat;
+}
+
+.oth {
+	text-align: left;
+}
+
+.footer {
+	text-align: center;
+}
+
+
+.qq {
+	margin-left: 25%;
+}
+
+.wechat {
+	margin-left: 25px;
+}
