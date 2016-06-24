@@ -8,71 +8,86 @@
 	float: left;
 }
 
-.orange_bg {
-	background-image: url(../images/orange_bg.png);
+.txt {
+	width: 100%;
+	height: 32px;
+
+	border-color:#000000;   
+	border-style:solid;   
+	border-top-width:0px;   
+	border-right-width:0px;   
+	border-bottom-width:1px;   
+	border-left-width:0px;  
+	margin-bottom: 15px;
+}
+
+h1 {
+	font-size: 14px;
+	height: 32px;
+	line-height: 32px;
 }
 
 body {
 	width: auto;
 }
+
 header {
-	background: gray;
+	background: black;
 }
 
 header div {
+	float: left;
+	color: white;
+	line-height：32px;
+}
+
+header div img {
+	display: block;
+	float: left;
+}
+header div span {
+	line-height: 32px;
 	float: left;
 }
 
 header h1 {
 	text-align: center;
+	color: white;
+	text-indent: -30px;
 }
 
 
 .content {
 	text-align: center;
-	margin: 0 10%;
+	margin: 0 15%;
 }
 
 .login {
 	margin-top: 70px;
 }
-.content input,button {
-	border: 0;
-	margin-bottom: 5px;
-}
+
 
 .username {
-	height: 32px;
-	text-indent:32px;
-	width: 100%;
 	background: url(../images/user.png)  no-repeat;
+	text-indent:40px;		
 }
 
 .sub {
+	border: 0;
 	width: 100%;
+	height: 32px;
 	color: #F2F2F2;
+	margin-bottom: 15px;
+	background-image: url(../images/orange_bg.png);
 }
 
 .pwd{
-	height: 32px;
-	text-indent:32px;
-	width: 100%;
 	background: url(../images/pwd.png)  no-repeat;
+	text-indent:40px;		
 }
 
 .oth {
 	text-align: left;
+	margin-bottom:30px;
 }
 
-.footer {
-	text-align: center;
-}
-
-
-.qq {
-	margin-left: 25%;
-}
-
-.wechat {
-	margin-left: 25px;
-}
