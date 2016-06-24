@@ -1,0 +1,36 @@
+﻿$axure.loadCurrentPage({
+  "url":"高薪职位.html",
+  "generationDate":new Date(1466786102838.65),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"80e02189e92649319f69225f53ac7fbc",
+    "type":"Axure:Page",
+    "name":"高薪职位",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

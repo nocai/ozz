@@ -1,0 +1,73 @@
+﻿$axure.loadCurrentPage({
+  "url":"签到.html",
+  "generationDate":new Date(1466786102411.05),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6f4b54f6d7b24267b00d5a30df13ec24",
+    "type":"Axure:Page",
+    "name":"签到",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c88af8ba393b44f39a4489f8687c2211",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":50,
+              "y":0},
+            "size":{
+              "width":306,
+              "height":543}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f142805a3e39478b83b9caf5808967a7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":50,
+                  "y":0},
+                "size":{
+                  "width":306,
+                  "height":543}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/签到/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c88af8ba393b44f39a4489f8687c2211":{
+      "scriptId":"u0"},
+    "f142805a3e39478b83b9caf5808967a7":{
+      "scriptId":"u1"}}});
